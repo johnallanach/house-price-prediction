@@ -1,0 +1,523 @@
+ADDRESS,LIST_PRICE,SOLD_ON,SELL_PRICE,DOM,BDRMS,BDRMS+,SIZE_SQFT,AGE,STYLE,BSMT,ASS_YR,ASS_AMT,TAX_YR,TAX_AMT,LOT_DPTH,LOT_FRNT,PARCEL_NO,COMMUNITY,TYPE,LAT,LON
+1 Darby Road ,"$799,900",['Sold on Sep 21 2021'],"$961,000",4,4,-,1500-2000,31-50 years,2-Storey,Full,-,-,2021,5061.76,110.05,58.51,-,Onward Willow,ResidentialProperty,43.5219349,-80.2804549
+1 Eastview Road ,"$774,900",['Sold on Jul 17 2021'],"$890,000",4,3,-,-,-,Bungalow,Finished,-,-,2021,4685,66.56,128,-,Grange Hill East,ResidentialProperty,43.564967,-80.24186
+1 Fernbank Place ,"$1,199,900",['Sold on Sep 17 2021'],"$1,385,000",6,3,-,2000-2500,31-50 years,2-Storey,Finished,2021,544000,2021,6110,-,93,-,Kortright Hills,ResidentialProperty,43.502716,-80.237331
+1 Porter Drive ,"$989,888",['Sold on May 17 2021'],"$1,065,000",7,4,2,-,-,2-Storey,Finished,-,-,2021,6042,-,48.75,-,Pine Ridge,ResidentialProperty,43.506626,-80.189371
+1 Simmonds Drive ,"$899,900",['Sold on May 26 2021'],"$999,000",5,3,-,2000-2500,6-15 years,2-Storey,Finished,-,-,2021,5053,115,47,713581046,Brant,ResidentialProperty,43.5791034,-80.269716
+1 Sinclair Street ,"$899,999",['Sold on Sep 21 2021'],"$900,000",6,3,-,-,-,2-Storey,Finished,2021,427000,2021,4878,82,38,711861547,Guelph South,ResidentialProperty,43.5064071,-80.1860378
+1 Stirling Place ,"$689,000",['Sold on May 03 2021'],"$690,000",4,3,-,1100-1500,31-50 years,Sidesplit 3,Finished,2021,326000,2020,3660.47,62.94,100,712950049,June Avenue,ResidentialProperty,43.5569591,-80.2806073
+1 Westhill Road ,"$789,900",['Sold on May 28 2021'],"$790,000",9,3,1,1100-1500,31-50 years,2-Storey,Finished,2021,364000,2020,4259,72.14,95.01,-,West Willow Woods,ResidentialProperty,43.5290665,-80.2873682
+10 Bright Lane ,"$1,475,000",['Sold on Oct 09 2021'],"$1,625,000",4,4,-,2500-3000,6-15 years,2-Storey,Finished,2021,762000,2021,8706.68,105,54,-,Guelph South,ResidentialProperty,43.51570472,-80.1842601
+10 Edwin Street ,"$849,900",['Sold on May 14 2021'],"$845,000",7,6,3,-,100+ years,2 1/2 Storey,Full,-,-,2021,5153.84,53,42,-,Exhibition Park,ResidentialProperty,43.5495119,-80.2564788
+10 Emslie Street ,"$699,900",['Sold on Nov 03 2021'],"$729,000",15,4,-,1500-2000,100+ years,2-Storey,Full,-,-,2021,4890,75,44,-,Central West,ResidentialProperty,43.5374801,-80.2524256
+10 Kipling Avenue ,"$879,900",['Sold on Sep 28 2021'],"$1,009,000",6,4,-,1500-2000,31-50 years,Backsplit 3,Part Bsmt,2021,474000,2021,5415.97,120,49.21,712670230,West Willow Woods,ResidentialProperty,43.5308009,-80.2955043
+10 Maude Lane ,"$779,900",['Sold on May 08 2021'],"$815,000",5,3,-,-,6-15 years,2-Storey,Full,-,-,2020,4603.65,119.75,30.09,713560829,Grange Hill East,ResidentialProperty,43.58007984,-80.22323251
+10 Mcintyre Court ,"$1,339,950",['Sold on Oct 16 2021'],"$1,350,000",8,4,1,-,0-5 years,2-Storey,Apartment,-,-,2021,6238.65,104.11,32.9,-,Guelph South,ResidentialProperty,43.5052191,-80.1803894
+10 Palmer Street ,"$699,000",['Sold on Sep 05 2021'],"$645,000",118,2,-,-,-,Bungalow,Unfinished,-,-,2021,4008.54,72,33.33,-,Central East,ResidentialProperty,43.5497119,-80.2485057
+10 Whispering Ridge ,"$699,500",['Sold on Nov 17 2021'],"$720,000",16,3,-,1500-2000,31-50 years,Bungalow,Fin W/O,-,-,2021,3702.05,100,30,-,Kortright Hills,ResidentialProperty,43.51444927,-80.23596569
+100 Emma Street ,"$499,900",['Sold on Dec 07 2021'],"$576,100",7,3,-,-,51-99 years,1 1/2 Storey,Part Fin,-,-,2021,3537,100,57.85,-,Central West,ResidentialProperty,43.56135071,-80.25788724
+101 Couling Crescent South ,"$1,200,000",['Sold on Nov 19 2021'],"$1,425,000",1,4,-,2000-2500,6-15 years,2-Storey,Finished,2021,577000,2021,6592.85,196,32,-,Grange Hill East,ResidentialProperty,-,-
+102 Flaherty Drive ,"$899,000",['Sold on Oct 29 2021'],"$1,030,000",1,3,2,-,-,Bungalow,Fin W/O,-,-,2020,5712,-,50.79,-,West Willow Woods,ResidentialProperty,43.52956826,-80.30511895
+104 Lovett Lane ,"$1,199,000",['Sold on Aug 04 2021'],"$1,151,000",14,3,-,1500-2000,0-5 years,2-Storey,Full,-,-,2021,5107,106,36,-,Hanlon Creek,ResidentialProperty,43.5150129,-80.2127747
+106 Dallan Drive ,"$1,549,000",['Sold on Aug 11 2021'],"$1,465,000",30,4,-,2000-2500,0-5 years,2-Storey,Finished,-,-,2020,6490.02,88.42,39.37,-,Guelph South,ResidentialProperty,43.5040011,-80.1799479
+107 Speedvale Avenue West ,"$799,000",['Sold on May 10 2021'],"$850,000",4,3,3,-,51-99 years,Bungalow,Apartment,-,-,2020,4098.37,126,66.1,712960086,June Avenue,ResidentialProperty,43.55366335,-80.27504241
+107 Teal Drive ,"$999,999",['Sold on Sep 18 2021'],"$1,175,000",3,3,1,2000-2500,16-30 years,2-Storey,Apartment,-,-,2021,6238,131,40,-,Kortright Hills,ResidentialProperty,43.49780905,-80.2263334
+108 Kortright Road East ,"$1,508,700",['Sold on Oct 26 2021'],"$1,495,000",12,3,1,2500-3000,6-15 years,2-Storey,Finished,2021,679000,2021,7758.32,140,53,715050626,Village,ResidentialProperty,43.52973358,-80.2072623
+108 Sheridan Street ,"$750,000",['Sold on Sep 12 2021'],"$910,000",4,3,2,1100-1500,51-99 years,Bungalow,Finished,2021,397000,2021,4536.16,104,71.13,713050098,Waverley,ResidentialProperty,43.57327353,-80.2557175
+109 Suffolk Street West ,"$1,199,000",['Sold on May 11 2021'],"$1,355,000",12,4,-,3500-5000,100+ years,2-Storey,Unfinished,-,-,2020,8769.4,106.5,53.08,712920067,Exhibition Park,ResidentialProperty,43.54554736,-80.25863201
+11 Brady Lane ,"$1,000,000",['Sold on Oct 25 2021'],"$1,230,000",5,4,2,2000-2500,31-50 years,2-Storey,Finished,-,-,2021,6901,-,115.81,-,Village,ResidentialProperty,43.52241375,-80.21076028
+11 Duck Lane ,"$1,175,000",['Sold on Nov 05 2021'],"$1,280,000",2,3,1,-,-,2-Storey,Finished,2021,533000,2021,6090.11,109,36,-,Guelph South,ResidentialProperty,43.51117498,-80.17914575
+11 Henderson Drive ,"$899,000",['Sold on Aug 28 2021'],"$908,000",23,3,-,1500-2000,6-15 years,2-Storey,Finished,-,-,2021,5016.05,114,31,713560616,Grange Hill East,ResidentialProperty,43.57823494,-80.22041865
+11 Mccurdy Road ,"$824,900",['Sold on Oct 25 2021'],"$905,000",5,3,-,1500-2000,6-15 years,2-Storey,Finished,-,-,2021,4479.03,131,31,-,Kortright Hills,ResidentialProperty,43.5124985,-80.211692
+11 Miller Street ,"$1,200,000",['Sold on Nov 16 2021'],"$1,410,000",5,4,1,2500-3000,16-30 years,2-Storey,Finished,2021,595000,2021,6799,105,44.95,711861138,Pine Ridge,ResidentialProperty,43.516237,-80.18803943
+11 Ryde Road ,"$750,000",['Sold on Nov 24 2021'],"$912,500",6,3,-,-,-,2-Storey,Finished,2021,352000,2021,4021.98,110,33,712590281,West Willow Woods,ResidentialProperty,43.52772428,-80.28147074
+11 Shirley Avenue ,"$850,000",['Sold on Nov 16 2021'],"$1,106,000",6,4,-,1100-1500,51-99 years,2-Storey,Finished,2021,407000,2021,4650,100,89,713250054,Central East,ResidentialProperty,43.5581783,-80.245998
+11 Weir Drive ,"$1,149,999",['Sold on Jun 01 2021'],"$1,150,000",4,4,-,2000-2500,16-30 years,2-Storey,Full,-,-,2021,6250,-,79,-,Kortright Hills,ResidentialProperty,43.49837299,-80.23908905
+11 Westminster Avenue ,"$849,900",['Sold on Aug 31 2021'],"$864,900",6,4,-,1500-2000,51-99 years,Sidesplit 4,Part Fin,-,-,2021,4443.3,100,61.55,-,Central East,ResidentialProperty,43.56578126,-80.24531484
+11 Wilkie Crescent ,"$799,900",['Sold on Aug 16 2021'],"$875,000",5,3,-,-,-,2-Storey,Finished,2021,412000,2021,412000,110,30,-,Guelph South,ResidentialProperty,43.50797959,-80.18069534
+111 Lane Street ,"$895,000",['Sold on May 16 2021'],"$905,000",4,3,1,-,-,2-Storey,Unfinished,-,-,2020,5300,154.68,79,-,Two Rivers,ResidentialProperty,43.557355,-80.2433765
+111 Ptarmigan Drive ,"$1,489,900",['Sold on Oct 25 2021'],"$1,500,000",12,3,-,2500-3000,16-30 years,2-Storey,Finished,-,-,2021,7040.21,199.47,59.05,712170003,Kortright Hills,ResidentialProperty,43.50341383,-80.24587117
+111 Stevenson Street North ,"$524,000",['Sold on Jun 10 2021'],"$551,000",1,4,-,1100-1500,-,1 1/2 Storey,Full,-,-,2020,4143,241.5,36.52,-,Central East,ResidentialProperty,43.55630124,-80.23894454
+113 Grange Street ,"$739,900",['Sold on Aug 06 2021'],"$719,000",25,2,-,1100-1500,100+ years,Bungalow,Full,2021,335000,2021,3827.74,165,59.51,-,Central East,ResidentialProperty,43.5536137,-80.2392279
+114 Baxter Drive ,"$1,299,000",['Sold on Oct 07 2021'],"$1,335,000",1,4,-,2500-3000,6-15 years,2-Storey,Full,-,-,2021,6878.51,110.83,37.53,-,Pine Ridge,ResidentialProperty,43.51298603,-80.17672273
+114 William Street ,"$799,900",['Sold on Jun 02 2021'],"$800,000",8,2,1,1100-1500,51-99 years,Bungalow,Finished,-,-,2020,3795.21,101.37,56.64,-,Central East,ResidentialProperty,43.56059782,-80.24265774
+118 Queen Street ,"$1,250,000",['Sold on May 18 2021'],"$1,370,000",7,4,1,2000-2500,100+ years,2 1/2 Storey,Finished,-,-,2020,5457,114,30,-,Waverley,ResidentialProperty,43.6219583,-80.1430048
+12 Bailey Avenue ,"$899,900",['Sold on Dec 08 2021'],"$1,110,000",8,4,1,1500-2000,16-30 years,2-Storey,Finished,-,-,2021,5199,136.84,30.18,713020117,June Avenue,ResidentialProperty,43.55831576,-80.27297414
+12 Brady Lane ,"$1,195,000",['Sold on Nov 09 2021'],"$1,195,000",5,3,2,2500-3000,31-50 years,2-Storey,Finished,2021,705000,2021,8055.39,-,50,715040031,Village,ResidentialProperty,43.52239875,-80.21104561
+122 Grange Street ,"$795,000",['Sold on Oct 20 2021'],"$770,000",41,4,-,1500-2000,100+ years,Bungalow,Full,2020,376000,2021,4296.21,97,66.48,713340096,Central East,ResidentialProperty,43.5538623,-80.239234
+122 Yorkshire Street North ,"$850,000",['Sold on Jun 25 2021'],"$835,000",34,4,-,-,-,2-Storey,Full,2021,409000,2020,4592,72,39.89,712890083,Central West,ResidentialProperty,43.54230634,-80.25805894
+124 Glasgow Street North ,"$1,249,900",['Sold on May 10 2021'],"$1,525,000",6,4,2,2500-3000,6-15 years,2-Storey,Finished,2021,613000,2021,6883.02,102.91,50,712910200,Exhibition Park,ResidentialProperty,43.5449532,-80.2575799
+124 Kortright Road West ,"$628,888",['Sold on May 06 2021'],"$736,888",7,3,5,1500-2000,-,2-Storey,Finished,-,-,2020,4558,109.91,49.77,-,Kortright Hills,ResidentialProperty,43.51605241,-80.21737589
+125 Arthur Street North ,"$599,000",['Sold on Jun 18 2021'],"$640,000",8,2,-,700-1100,51-99 years,Bungalow,Crawl Space,-,-,2020,4839.45,-,89,713220029,Central East,ResidentialProperty,43.5495298,-80.2488414
+126 Arthur Street North ,"$849,900",['Sold on Jun 07 2021'],"$975,669",6,1,-,1500-2000,100+ years,2-Storey,Full,-,-,2021,5431,159,33,-,Exhibition Park,ResidentialProperty,43.54928764,-80.249102
+126 Ironwood Drive ,"$698,000",['Sold on Nov 13 2021'],"$695,000",16,3,-,-,-,2-Storey,Finished,-,-,2021,3347.84,71,50,-,Grange Hill East,ResidentialProperty,-,-
+127 Ironwood Road ,"$680,000",['Sold on Jun 04 2021'],"$675,000",28,3,2,1100-1500,-,2-Storey,Finished,-,-,2020,3727.84,112.56,29.86,-,Hanlon Creek,ResidentialProperty,43.51490927,-80.23251394
+127 Kingsmill Avenue ,"$599,900",['Sold on Jul 02 2021'],"$645,000",9,2,1,700-1100,100+ years,1 1/2 Storey,Full,2021,287000,2020,3279.29,78.33,30,712370492,Two Rivers,ResidentialProperty,43.54879657,-80.22468981
+127 Ptarmigan Drive ,"$775,000",['Sold on Aug 30 2021'],"$785,100",13,3,-,1100-1500,-,2-Storey,Part Fin,-,-,2021,4261.93,170.6,32.15,714890109,Kortright Hills,ResidentialProperty,43.50417768,-80.24623548
+13 Durham Street ,"$1,150,000",['Sold on Jul 16 2021'],"$1,100,000",16,4,-,1500-2000,100+ years,2-Storey,Full,2021,507000,2021,5793,104,74,712880135,Central West,ResidentialProperty,43.5425746,-80.2528742
+13 Peter Avenue ,"$599,900",['Sold on May 04 2021'],"$762,500",6,2,-,700-1100,51-99 years,1 1/2 Storey,Full,-,-,2021,3593,92,53,-,Waverley,ResidentialProperty,43.55987821,-80.26072053
+130 Alice Street ,"$509,900",['Sold on Aug 31 2021'],"$576,000",7,3,-,-,-,Bungalow,Full,-,-,2021,2879.38,105.25,33.01,713420160,Central East,ResidentialProperty,43.54808825,-80.23570554
+130 Arthur Street North ,"$1,124,000",['Sold on Nov 16 2021'],"$1,229,000",11,2,1,1100-1500,100+ years,Bungalow,Fin W/O,2021,558000,2021,6375.75,159,45,713360011,Two Rivers,ResidentialProperty,43.54930758,-80.2493251
+137 Country Club Drive ,"$649,900",['Sold on Sep 22 2021'],"$830,000",6,2,1,700-1100,-,Bungalow,Finished,-,-,2021,3667.77,115,55,-,Two Rivers,ResidentialProperty,43.5738636,-80.26916683
+137 Rodgers Road ,"$599,900",['Sold on Nov 15 2021'],"$732,000",5,3,-,1100-1500,16-30 years,2-Storey,Full,2021,361000,2021,4124.82,-,26,714900875,Hanlon Creek,ResidentialProperty,43.511621,-80.217165
+138 Downey Road ,"$1,149,000",['Sold on Jul 15 2021'],"$1,130,000",7,4,-,2000-2500,31-50 years,2-Storey,Finished,2021,523000,2021,5976,138,59,712190044,Kortright Hills,ResidentialProperty,43.49865143,-80.23498455
+14 Collingwood Street ,"$699,900",['Sold on Oct 09 2021'],"$735,000",2,3,-,-,-,1 1/2 Storey,Finished,2021,329000,2021,3759.18,110,52,713080137,Waverley,ResidentialProperty,43.56638655,-80.26383832
+14 Emeny Lane ,"$1,599,000",['Sold on Aug 21 2021'],"$1,400,000",96,4,1,3000-3500,New,2-Storey,W/O,-,-,2021,9038.04,83.67,57.15,-,Kortright Hills,ResidentialProperty,43.5180321,-80.2013607
+14 Forster Drive ,"$1,299,000",['Sold on May 07 2021'],"$1,485,000",8,5,-,2500-3000,31-50 years,2-Storey,Finished,2021,708000,2021,7958,125,62,715050204,Village,ResidentialProperty,43.525669,-80.21081
+14 Hollyberry Place ,"$839,900",['Sold on May 06 2021'],"$960,069",6,3,-,1500-2000,31-50 years,2-Storey,Full,2021,449000,2020,5041.56,106,35.53,712540607,Parkwood Gardens,ResidentialProperty,43.52172,-80.2814762
+14 Laurine Avenue ,"$449,900",['Sold on Aug 25 2021'],"$550,000",6,2,-,700-1100,-,Bungalow,Sep Entrance,-,-,2020,2728.51,104,35.01,-,Two Rivers,ResidentialProperty,43.5548233,-80.2416867
+14 Lockyer Road ,"$1,200,000",['Sold on Jul 13 2021'],"$1,350,000",5,5,-,2000-2500,51-99 years,2-Storey,Full,2021,587000,2021,6707.11,150,83.99,-,Old University,ResidentialProperty,43.5276286,-80.2467508
+14 Primrose Lane ,"$869,000",['Sold on Jul 29 2021'],"$940,000",3,4,-,1500-2000,16-30 years,Backsplit 4,Finished,2021,428000,2021,4805.77,-,51.91,712630041,West Willow Woods,ResidentialProperty,43.5337356,-80.291963
+14 Truesdale Crescent ,"$799,900",['Sold on Jun 15 2021'],"$800,000",19,5,-,1100-1500,-,2 1/2 Storey,Full,-,-,2020,4210.66,103.77,30.18,-,Hanlon Creek,ResidentialProperty,43.51348346,-80.2092308
+143 Deerpath Drive ,"$799,900",['Sold on May 17 2021'],"$911,000",5,3,-,-,16-30 years,2-Storey,Finished,-,-,2020,5100,116.48,43.11,-,Parkwood Gardens,ResidentialProperty,43.52761025,-80.27005524
+143 Elmira Road ,"$848,888",['Sold on Dec 07 2021'],"$1,235,000",1,4,2,2500-3000,16-30 years,2-Storey,Finished,2021,523000,2021,5976,123.32,49,2389,West Willow Woods,ResidentialProperty,-,-
+145 Suffolk Street West ,"$938,000",['Sold on Aug 24 2021'],"$870,000",43,2,-,1100-1500,100+ years,Bungalow,Full,2021,431000,2021,4924.64,98,59,712920038,Central West,ResidentialProperty,43.5448711,-80.25989188
+147 King Street ,"$1,349,900",['Sold on Oct 07 2021'],"$1,325,000",7,4,-,1500-2000,-,2 1/2 Storey,Full,2021,427000,2021,5873,100,72,73190280,Two Rivers,ResidentialProperty,43.5521235,-80.2514196
+149 Fife Road ,"$700,000",['Sold on Jul 12 2021'],"$740,000",5,4,-,1500-2000,31-50 years,2-Storey,Full,2021,412000,2021,4707.55,139,50,-,West Willow Woods,ResidentialProperty,43.51457923,-80.27485402
+15 Duck Lane ,"$999,999",['Sold on May 18 2021'],"$1,140,000",21,4,1,-,-,2-Storey,Fin W/O,-,-,2020,5626,-,36,-,Pine Ridge,ResidentialProperty,43.5114025,-80.1788685
+15 Laverne Avenue ,"$799,900",['Sold on Jul 16 2021'],"$753,598",22,3,1,-,-,Bungalow,Sep Entrance,-,-,2020,3682.93,117,55,-,Brant,ResidentialProperty,43.56330828,-80.24601541
+15 Lonsdale Drive ,"$689,900",['Sold on Jun 07 2021'],"$850,000",4,3,-,1100-1500,51-99 years,Sidesplit 3,Finished,2021,342000,2021,3907.72,100,56,712950148,Exhibition Park,ResidentialProperty,43.55349453,-80.27869525
+152 Paisley Street ,"$749,900",['Sold on Oct 21 2021'],"$800,000",8,3,-,1100-1500,100+ years,2 1/2 Storey,Full,2021,389000,2021,4444.75,122,36,712890080,Central West,ResidentialProperty,43.54243509,-80.25850242
+152 Waverley Drive ,"$699,000",['Sold on Jul 09 2021'],"$682,888",11,3,-,700-1100,31-50 years,Bungalow,Sep Entrance,2021,318000,2021,3793,110,50,-,Waverley,ResidentialProperty,43.5728871,-80.257465
+154 Alice Street ,"$499,500",['Sold on Oct 26 2021'],"$400,000",12,2,-,-,100+ years,Bungalow,Unfinished,-,-,2020,2092.56,48.42,27.58,713420174,Two Rivers,ResidentialProperty,43.54864962,-80.23491942
+154 Clairfields Drive West ,"$899,999",['Sold on May 31 2021'],"$880,000",11,3,1,2000-2500,16-30 years,Backsplit 3,Full,-,-,2020,5313.13,110,40,-,Pine Ridge,ResidentialProperty,43.4982691,-80.19917983
+154 Goodwin Drive ,"$1,129,000",['Sold on Jul 13 2021'],"$1,220,000",5,3,-,3000-3500,16-30 years,2 1/2 Storey,Finished,2021,614000,2020,7236,117,40,71186235,Clairfields,ResidentialProperty,43.510373,-80.179034
+158 York Road ,"$499,900",['Sold on Oct 12 2021'],"$581,000",8,2,-,700-1100,100+ years,Bungalow,Part Bsmt,2021,197000,2021,2200,58,38,713400080,Two Rivers,ResidentialProperty,43.5438873,-80.2350662
+16 Blair Drive ,"$1,099,990",['Sold on Nov 21 2021'],"$1,180,000",6,4,2,-,-,2-Storey,Finished,-,-,2021,5518.8,104.99,40.03,711860941,Pine Ridge,ResidentialProperty,43.51088443,-80.1870418
+16 Gorman Court ,"$1,249,000",['Sold on May 26 2021'],"$1,138,000",20,4,2,2000-2500,0-5 years,2-Storey,Finished,-,-,2021,5954.48,100.45,27.49,-,West Willow Woods,ResidentialProperty,-,-
+16 Islington Avenue ,"$749,000",['Sold on Oct 14 2021'],"$889,000",1,3,1,-,31-50 years,Sidesplit 4,Part Fin,-,-,2021,4207.6,-,45.27,713580671,Waverley,ResidentialProperty,43.5778368,-80.26312191
+16 Ontario Street ,"$538,800",['Sold on Nov 08 2021'],"$530,000",8,2,-,-,-,Bungalow,Crawl Space,-,-,2021,1954,117,41,713400014,Two Rivers,ResidentialProperty,43.54438343,-80.24000717
+16 Sloan Avenue ,"$599,000",['Sold on Sep 06 2021'],"$715,000",4,3,2,1100-1500,-,Bungalow-Raised,Fin W/O,-,-,2021,3713.48,91.25,42.19,713440107,Grange Hill East,ResidentialProperty,43.55801112,-80.21780114
+16 Southcreek Trail ,"$649,900",['Sold on Aug 24 2021'],"$850,000",4,3,-,-,16-30 years,2-Storey,Unfinished,-,-,2021,4044.84,113.9,33.96,714900462,Kortright Hills,ResidentialProperty,43.51076651,-80.21657632
+16 Tiffany Street East ,"$595,000",['Sold on Jun 15 2021'],"$655,000",7,3,-,1100-1500,100+ years,2-Storey,Part Bsmt,2021,367000,2020,3772.75,67.33,21.17,713190168,Exhibition Park,ResidentialProperty,43.55300651,-80.25968355
+165 Dimson Avenue ,"$1,275,000",['Sold on May 06 2021'],"$1,425,000",7,3,1,2000-2500,-,Bungalow,Full,-,-,2020,7612.86,131.03,69.88,-,Village,ResidentialProperty,43.526676,-80.21655898
+168 London Road West ,"$599,000",['Sold on Oct 19 2021'],"$715,000",6,2,1,1100-1500,100+ years,1 1/2 Storey,Finished,-,-,2021,3042.16,99,36.69,712930060,Exhibition Park,ResidentialProperty,43.54623368,-80.26201306
+168 Victoria Avenue North ,"$499,900",['Sold on Oct 06 2021'],"$678,000",7,4,-,-,51-99 years,Bungalow,Full,-,-,2021,3576.37,138,50,-,Central East,ResidentialProperty,-,-
+169 Dallan Drive ,"$1,089,000",['Sold on May 22 2021'],"$1,090,000",25,4,2,2000-2500,0-5 years,2-Storey,Finished,-,-,2021,5939.84,104.99,29.53,-,Guelph South,ResidentialProperty,43.5040011,-80.1799479
+17 Brydges Court ,"$729,000",['Sold on May 02 2021'],"$785,000",5,3,-,-,16-30 years,2-Storey,Part Fin,-,-,2020,4132.06,111.02,29.66,714930522,Grange Hill East,ResidentialProperty,43.5709229,-80.22237365
+17 Dominion Drive ,"$1,175,000",['Sold on Aug 22 2021'],"$1,131,000",17,4,1,2000-2500,6-15 years,2-Storey,Finished,-,-,2021,6364.38,110,38.48,711862507,Pine Ridge,ResidentialProperty,43.51175133,-80.17917
+17 Fairmeadow Drive ,"$850,000",['Sold on Oct 19 2021'],"$920,000",5,3,1,1500-2000,31-50 years,Sidesplit 4,Finished,2021,379000,2020,4300,110.04,49.02,712570192,Parkwood Gardens,ResidentialProperty,43.51699856,-80.27275467
+17 Knevitt Place ,"$899,900",['Sold on Jun 08 2021'],"$885,000",7,4,-,1500-2000,100+ years,Sidesplit 5,Finished,-,-,2020,6108.26,107,90,-,Old University,ResidentialProperty,43.515778,-80.248716
+17 Mctague Street ,"$995,000",['Sold on Nov 01 2021'],"$1,380,000",5,4,1,2000-2500,51-99 years,2 1/2 Storey,Finished,2021,564000,2021,6443,124,55.45,712990108,Exhibition Park,ResidentialProperty,43.55048813,-80.25824112
+17 Old Colony Trail ,"$875,000",['Sold on Jun 07 2021'],"$980,000",6,3,1,1500-2000,31-50 years,2-Storey,Finished,2016,444000,2020,4985.42,157.01,45.47,712200054,Kortright Hills,ResidentialProperty,43.50897657,-80.23971801
+17 Ridgeway Avenue ,"$1,399,900",['Sold on Sep 14 2021'],"$1,600,000",5,4,1,2500-3000,51-99 years,2-Storey,Apartment,2021,648000,2021,7404.11,200,79.99,711860039,Pine Ridge,ResidentialProperty,43.51518507,-80.19434834
+17 Trailbrook Lane ,"$769,900",['Sold on Oct 18 2021'],"$821,000",6,3,-,1100-1500,16-30 years,2-Storey,Full,2021,349000,2021,3987.71,101.71,29.53,713440191,Grange Hill East,ResidentialProperty,43.56090906,-80.22412371
+17 University Avenue West ,"$849,900",['Sold on Nov 24 2021'],"$1,000,000",7,3,1,1500-2000,51-99 years,Sidesplit 4,Finished,2021,472000,2021,5393.11,56,99.84,712410045,Old University,ResidentialProperty,43.5327277,-80.2364068
+17 Whittaker Court ,"$799,000",['Sold on May 19 2021'],"$950,000",6,3,-,-,16-30 years,2-Storey,Finished,2021,388000,2021,4574,168.59,23.43,714890092,Kortright Hills,ResidentialProperty,43.50425967,-80.24483833
+174 Deerpath Drive ,"$899,900",['Sold on Jul 27 2021'],"$900,000",21,5,-,-,16-30 years,Backsplit 3,Sep Entrance,-,-,2021,5796,147.16,39.4,-,West Willow Woods,ResidentialProperty,43.52395191,-80.2697068
+175 Farley Drive ,"$879,900",['Sold on Nov 12 2021'],"$875,000",14,2,1,1100-1500,16-30 years,Bungalow,Apartment,2021,390000,2021,456,104,49,711860671,Pine Ridge,ResidentialProperty,43.508003,-80.191975
+177 Glasgow Street North ,"$989,900",['Sold on Sep 24 2021'],"$1,175,000",9,3,-,2000-2500,100+ years,2 1/2 Storey,Half,2021,563000,2021,6288,104,52,712920096,Exhibition Park,ResidentialProperty,43.54601327,-80.25842587
+179 Harvard Road ,"$739,988",['Sold on Aug 17 2021'],"$820,000",10,4,-,1100-1500,31-50 years,Bungalow-Raised,Finished,-,-,2021,4090.54,108.27,54.46,712260089,Central West,ResidentialProperty,43.51753688,-80.22554025
+18 Blair Drive ,"$999,900",['Sold on May 26 2021'],"$1,040,000",9,5,-,2000-2500,16-30 years,2-Storey,Finished,2020,571000,2020,6458,-,38,-,Pine Ridge,ResidentialProperty,43.51095592,-80.18694163
+18 Carrington Place ,"$1,099,900",['Sold on Oct 13 2021'],"$1,149,900",9,3,2,2500-3000,16-30 years,2 1/2 Storey,Apartment,2021,546000,2021,6238,-,24,-,Guelph South,ResidentialProperty,43.51160092,-80.2076691
+18 Creighton Avenue ,"$849,900",['Sold on Aug 01 2021'],"$887,500",4,3,-,1500-2000,6-15 years,Bungalow,Full,2021,-,2020,4906.82,110,39.48,714932361,Grange Hill East,ResidentialProperty,43.5716952,-80.2274831
+18 Pinnacle Crescent ,"$879,900",['Sold on May 03 2021'],"$880,000",12,3,-,1500-2000,31-50 years,Bungalow,Finished,-,-,2021,4929.27,-,60,-,West Willow Woods,ResidentialProperty,43.52388593,-80.27260889
+18 Springdale Boulevard ,"$599,900",['Sold on May 26 2021'],"$800,000",6,3,1,700-1100,31-50 years,Bungalow-Raised,Fin W/O,2020,309000,2020,3469.58,100,52,712570072,Parkwood Gardens,ResidentialProperty,43.51794567,-80.27341701
+18 Walman Drive ,"$699,900",['Sold on Nov 23 2021'],"$770,100",6,3,2,1100-1500,31-50 years,2-Storey,Finished,2021,353000,2021,4033.41,117.67,30.02,712230093,Hanlon Creek,ResidentialProperty,43.51568522,-80.22914566
+180 Country Club Drive ,"$669,000",['Sold on Aug 13 2021'],"$800,000",2,3,1,700-1100,31-50 years,Bungalow,Finished,2016,294000,2021,3359,117.9,36,713580472,Waverley,ResidentialProperty,43.57633209,-80.26855835
+184 Edinburgh Road North ,"$624,900",['Sold on May 01 2021'],"$785,000",4,2,-,700-1100,100+ years,Bungalow,Full,-,-,2020,4008.55,132,66.01,-,Onward Willow,ResidentialProperty,43.5416606,-80.2640555
+184 Waverley Drive ,"$724,900",['Sold on Oct 21 2021'],"$724,900",8,3,-,-,51-99 years,Bungalow,Finished,-,-,2021,3530.6,105,52,-,Waverley,ResidentialProperty,43.57246821,-80.25538606
+186 Rickson Avenue ,"$649,900",['Sold on Jun 09 2021'],"$710,000",6,3,1,1100-1500,16-30 years,2-Storey,Finished,-,-,2021,3873,117.01,31.17,-,Hanlon Creek,ResidentialProperty,43.51341525,-80.21178081
+187 Goodwin Drive ,"$950,000",['Sold on Nov 29 2021'],"$1,110,250",5,3,-,2000-2500,6-15 years,Backsplit 5,Full,2021,447000,2021,5107.46,105,30,711863480,Pine Ridge,ResidentialProperty,43.512116,-80.1764871
+188 Stevenson Street North ,"$419,900",['Sold on Jul 07 2021'],"$410,000",8,3,-,700-1100,51-99 years,Bungalow,Part Bsmt,2016,234000,2021,2673.7,102.89,39.99,-,Central East,ResidentialProperty,43.5575373,-80.241065
+189 Goodwin Drive ,"$949,000",['Sold on Oct 07 2021'],"$1,050,000",6,3,-,1500-2000,0-5 years,2-Storey,Full,2021,448000,2021,5118.89,104.99,30.18,711863481,Pine Ridge,ResidentialProperty,43.512139,-80.1764512
+19 Allison Place ,"$849,900",['Sold on Oct 15 2021'],"$785,000",42,3,1,1100-1500,31-50 years,Bungalow-Raised,Apartment,-,-,2021,4056.26,95,50.98,-,West Willow Woods,ResidentialProperty,43.51629936,-80.27646282
+19 Atto Drive ,"$774,900",['Sold on Jul 14 2021'],"$907,000",5,2,1,-,-,Bungalow,Finished,-,-,2021,4741,-,46,230803002,Grange Hill East,ResidentialProperty,43.5826931,-80.2586272
+19 Celia Crescent ,"$799,999",['Sold on Oct 14 2021'],"$860,000",2,3,-,1100-1500,16-30 years,Backsplit 5,Full,2021,408000,2021,4662.17,125,49,712470386,Old University,ResidentialProperty,43.5264094,-80.2553493
+19 Kimberley Drive ,"$819,900",['Sold on Oct 13 2021'],"$885,000",6,3,1,1100-1500,-,Sidesplit 3,Walk-Up,-,-,2021,4837,90,73.31,-,Exhibition Park,ResidentialProperty,43.5518667,-80.2748377
+19 Malvern Crescent ,"$1,698,000",['Sold on Jul 30 2021'],"$1,650,000",25,4,1,3000-3500,51-99 years,2-Storey,Finished,2021,712000,2021,8135,319,75,711860012,Pine Ridge,ResidentialProperty,43.51372536,-80.19537243
+19 Porter Drive ,"$989,900",['Sold on Sep 01 2021'],"$982,000",8,3,-,1500-2000,16-30 years,2-Storey,Finished,-,-,2021,5061.79,108,30,-,Pine Ridge,ResidentialProperty,43.50609528,-80.18878399
+19 Thornhill Drive ,"$899,900",['Sold on May 17 2021'],"$1,039,900",5,3,-,2000-2500,31-50 years,2-Storey,Finished,-,-,2021,5715,196,55,-,West Willow Woods,ResidentialProperty,43.53390443,-80.29643719
+19 Wilton Road ,"$974,900",['Sold on Aug 06 2021'],"$1,030,000",1,3,1,1500-2000,16-30 years,2-Storey,Full,-,-,2020,4993.2,131,36,-,Waverley,ResidentialProperty,43.57677117,-80.26919933
+190 Severn Drive ,"$685,000",['Sold on Aug 04 2021'],"$807,000",7,3,-,1500-2000,6-15 years,2-Storey,Finished,2016,353000,2021,4033.41,110,29,713560677,Grange Hill East,ResidentialProperty,43.5775654,-80.2208664
+192 Ambrous Crescent ,"$1,100,000",['Sold on Nov 12 2021'],"$1,370,000",9,3,-,2000-2500,0-5 years,2-Storey,Full,-,-,2021,6880,115,39,715051291,Clairfields,ResidentialProperty,43.5275391,-80.2013406
+193 Dawn Avenue ,"$1,599,900",['Sold on Jun 28 2021'],"$1,615,000",10,4,1,2500-3000,16-30 years,2-Storey,Apartment,2021,686000,2021,7838.3,190,50,714921016,Clairfields,ResidentialProperty,43.504605,-80.195359
+193 Liverpool Street ,"$549,900",['Sold on May 28 2021'],"$550,000",25,2,-,700-1100,100+ years,Bungalow,Crawl Space,-,-,2021,3379.75,59,38,-,Central West,ResidentialProperty,43.5433626,-80.261026
+2 Blair Drive ,"$1,194,500",['Sold on Nov 15 2021'],"$1,251,000",3,4,1,3000-3500,-,2-Storey,Finished,2021,553000,2021,6318,-,52,711860948,Guelph South,ResidentialProperty,43.510384,-80.187743
+2 Christopher Court ,"$750,000",['Sold on Sep 13 2021'],"$783,000",4,3,-,1100-1500,31-50 years,2-Storey,Finished,2021,310000,2021,3542.09,69,39,712210012,Hanlon Creek,ResidentialProperty,43.511667,-80.238394
+2 Eliot Place ,"$529,900",['Sold on Sep 26 2021'],"$655,000",5,3,-,1100-1500,-,Bungalow,W/O,-,-,2021,3416.4,122.74,29.86,-,Grange Hill East,ResidentialProperty,43.5657613,-80.237878
+2 Ervin Crescent ,"$699,900",['Sold on Sep 14 2021'],"$892,000",6,3,-,1100-1500,31-50 years,2-Storey,Finished,-,-,2021,4216.24,102.88,74.46,-,Kortright Hills,ResidentialProperty,43.511456,-80.232696
+2 Forest Street South ,"$1,399,900",['Sold on Oct 05 2021'],"$1,600,000",5,2,3,3000-3500,51-99 years,Bungalow,Finished,-,-,2021,8135.38,99,101,230806000,Old University,ResidentialProperty,-,-
+2 Whispering Ridge Drive ,"$699,900",['Sold on Dec 02 2021'],"$800,000",1,4,1,1100-1500,31-50 years,2-Storey,Apartment,-,-,2021,3587.79,-,47.93,712240031,Guelph South,ResidentialProperty,43.514713,-80.236311
+20 Chartwell Crescent ,"$619,900",['Sold on Jul 13 2021'],"$720,000",4,2,2,-,31-50 years,Backsplit 4,Finished,-,-,2021,3325,111.99,38.09,-,Old University,ResidentialProperty,43.51471579,-80.25257114
+20 Creekside Drive ,"$849,999",['Sold on Oct 25 2021'],"$855,000",4,3,-,1500-2000,6-15 years,Backsplit 3,Finished,2021,363000,2021,4147,-,44,-,Grange Hill East,ResidentialProperty,43.56931813,-80.21014709
+20 Gladstone Avenue ,"$939,999",['Sold on Jul 09 2021'],"$940,000",7,4,-,1500-2000,51-99 years,Sidesplit 3,Full,-,-,2021,5393,-,56,-,Waverley,ResidentialProperty,43.56487926,-80.26129678
+20 Glenbrook Drive ,"$829,900",['Sold on Oct 19 2021'],"$880,000",6,3,2,-,-,Bungalow-Raised,Apartment,-,-,2021,3736,110,54,-,Brant,ResidentialProperty,43.57556616,-80.26430833
+20 Kingsley Court ,"$1,399,900",['Sold on Dec 05 2021'],"$1,450,000",3,5,-,3000-3500,51-99 years,2-Storey,Finished,2021,905000,2021,9988,-,68,713030094,Waverley,ResidentialProperty,43.57263761,-80.26238175
+20 Laurine Avenue ,"$499,800",['Sold on Jun 28 2021'],"$480,000",4,1,-,< 700,51-99 years,Bungalow,Full,2021,201000,2021,2257,104,35,713240076,Central East,ResidentialProperty,43.55506783,-80.24201914
+20 Leacock Avenue ,"$679,900",['Sold on Jun 16 2021'],"$670,000",12,3,-,-,-,2-Storey,Finished,-,-,2021,3290.71,100,30.48,-,Grange Hill East,ResidentialProperty,43.56349345,-80.23237891
+20 Zecca Drive ,"$849,900",['Sold on Jul 05 2021'],"$865,000",12,3,-,1500-2000,16-30 years,2-Storey,Unfinished,-,-,2021,4673.27,109.91,39.37,-,Pine Ridge,ResidentialProperty,43.51933493,-80.18941091
+204 College Avenue West ,"$699,900",['Sold on Jun 01 2021'],"$693,000",22,6,-,2500-3000,-,2-Storey,Unfinished,-,-,2020,5334,120,112,-,Old University,ResidentialProperty,43.523435,-80.244128
+206 Ironwood Road ,"$799,900",['Sold on May 10 2021'],"$955,000",5,3,-,1500-2000,-,Sidesplit 4,Finished,-,-,2020,4500,110,58.96,-,Hanlon Creek,ResidentialProperty,43.51158085,-80.23488901
+209 Elmira Road South ,"$750,000",['Sold on Oct 21 2021'],"$850,000",2,3,1,1500-2000,16-30 years,2-Storey,Full,-,-,2021,4216,109.91,50.52,-,West Willow Woods,ResidentialProperty,43.52047566,-80.28642774
+21 Buckthorn Crescent ,"$769,900",['Sold on Jul 21 2021'],"$772,000",6,2,1,-,16-30 years,Backsplit 3,Finished,2021,354000,2021,4040.84,-,45.14,-,Grange Hill East,ResidentialProperty,43.56950491,-80.22362821
+21 Grey Oak Drive ,"$999,900",['Sold on Sep 21 2021'],"$1,210,000",7,3,-,1500-2000,16-30 years,2-Storey,Finished,2021,493000,2021,5633.06,104.99,45.77,711861128,Pine Ridge,ResidentialProperty,43.51642651,-80.18641549
+21 Law Drive ,"$799,000",['Sold on Nov 15 2021'],"$983,000",2,3,1,1500-2000,16-30 years,2-Storey,Finished,-,-,2021,4101.99,116.2,32.7,-,Grange Hill East,ResidentialProperty,43.56771065,-80.21881117
+21 Melrose Place ,"$899,900",['Sold on Jul 07 2021'],"$1,066,000",2,4,1,1500-2000,16-30 years,2-Storey,Finished,2021,456000,2020,5120.16,113,38.55,712580436,West Willow Woods,ResidentialProperty,43.52649217,-80.27139593
+21 Morris Street ,"$747,000",['Sold on May 14 2021'],"$725,000",24,3,-,1100-1500,31-50 years,2-Storey,Finished,2021,313000,2021,3515,168,35,-,Central East,ResidentialProperty,43.55077697,-80.2363501
+21 Munroe Crescent ,"$849,900",['Sold on Sep 11 2021'],"$925,000",2,3,1,1500-2000,16-30 years,Backsplit 3,Finished,2021,444000,2021,5073.18,104.99,40.35,714920637,Clairfields,ResidentialProperty,43.49998386,-80.19348505
+21 Parker Place ,"$849,900",['Sold on Nov 13 2021'],"$922,000",2,3,-,-,16-30 years,2-Storey,Finished,-,-,2021,4342,138,43,713580748,Waverley,ResidentialProperty,43.57707938,-80.26567482
+210 College Avenue East ,"$1,299,900",['Sold on Aug 30 2021'],"$1,320,000",6,3,3,2000-2500,51-99 years,Bungalow,Finished,2021,794000,2021,9072,209,70,-,Old University,ResidentialProperty,43.53755181,-80.22551344
+210 Goodwin Drive ,"$999,000",['Sold on Dec 07 2021'],"$1,110,000",5,3,1,2000-2500,6-15 years,2-Storey,Finished,2021,457000,2021,5221.72,117.26,37.73,711862803,Pine Ridge,ResidentialProperty,43.51384812,-80.17550456
+211 Country Club Drive ,"$799,900",['Sold on Sep 17 2021'],"$870,000",3,3,-,1500-2000,16-30 years,2-Storey,Finished,-,-,2021,4101,137,36,-,Waverley,ResidentialProperty,43.57732623,-80.26681425
+217 Fleming Road ,"$1,199,900",['Sold on Nov 16 2021'],"$1,301,000",6,4,-,2000-2500,0-5 years,2-Storey,Unfinished,2021,515000,2021,5984.48,115,31,713561087,Grange Hill East,ResidentialProperty,43.5725142,-80.211146
+218 Summerfield Drive ,"$999,900",['Sold on Jun 08 2021'],"$1,245,000",7,3,1,2000-2500,6-15 years,2-Storey,Finished,-,-,2020,7392,104.32,41.01,711860550,Pine Ridge,ResidentialProperty,43.5186554,-80.1819115
+219 Dufferin Street ,"$689,000",['Sold on Oct 21 2021'],"$857,000",3,3,-,-,-,1 1/2 Storey,Full,-,-,2021,4715.94,129.25,37.99,71310008,Exhibition Park,ResidentialProperty,43.55757333,-80.2647022
+219 Elmira Road South ,"$899,000",['Sold on Nov 09 2021'],"$1,150,000",1,4,1,-,-,2-Storey,Finished,-,-,2021,5140,109.91,50.52,712540010,West Willow Woods,ResidentialProperty,43.5199023,-80.2849716
+219 Summit Ridge Drive ,"$989,000",['Sold on Nov 17 2021'],"$1,250,000",6,3,-,2000-2500,6-15 years,2-Storey,Finished,-,-,2021,5655.91,-,38.66,713490315,Grange Hill East,ResidentialProperty,43.571571,-80.235725
+22 Atto Drive ,"$874,900",['Sold on Jul 31 2021'],"$950,000",2,3,1,2000-2500,6-15 years,2-Storey,Finished,2021,517000,2020,5846.28,114.86,39.37,713570369,Brant,ResidentialProperty,43.581119,-80.2566487
+22 Buckthorn Crescent ,"$899,900",['Sold on Jun 03 2021'],"$900,000",8,3,-,2500-3000,16-30 years,Bungaloft,Fin W/O,-,-,2021,5815.88,137,33,-,Grange Hill East,ResidentialProperty,43.56933318,-80.22373554
+22 Chad Place ,"$579,300",['Sold on Jun 01 2021'],"$653,000",5,4,-,1500-2000,31-50 years,2-Storey,Full,2021,404,2021,4516.28,113.75,39.97,712650024,West Willow Woods,ResidentialProperty,43.53868075,-80.28742048
+22 Young Street ,"$1,195,000",['Sold on Jun 29 2021'],"$1,331,000",5,4,1,2500-3000,0-5 years,2-Storey,Finished,2021,738000,2021,8432,109.84,44.06,-,Old University,ResidentialProperty,43.5277475,-80.2441274
+221 Arthur Street North ,"$464,900",['Sold on Sep 08 2021'],"$851,000",12,2,-,700-1100,100+ years,1 1/2 Storey,Crawl Space,-,-,2020,3559.41,128,70,-,Waverley,ResidentialProperty,43.5517471,-80.2530025
+222 Carrington Drive ,"$899,900",['Sold on Oct 18 2021'],"$975,000",5,3,-,1100-1500,-,2-Storey,Full,-,-,2021,4970.35,104.99,30.18,-,Hanlon Creek,ResidentialProperty,43.51519862,-80.21064775
+226 Paisley Street ,"$699,000",['Sold on Jun 09 2021'],"$692,500",8,3,1,1100-1500,51-99 years,1 1/2 Storey,Full,2021,392000,2021,4401,-,42.47,-,Two Rivers,ResidentialProperty,43.54109705,-80.26109566
+228 Liverpool Street ,"$759,500",['Sold on May 17 2021'],"$750,000",3,3,-,1500-2000,51-99 years,2-Storey,Full,-,-,2020,4828.88,121.44,44.48,-,Central West,ResidentialProperty,43.54250481,-80.26231335
+23 Beaver Meadow Drive ,"$949,900",['Sold on Jul 02 2021'],"$977,500",15,3,1,1500-2000,16-30 years,2-Storey,Fin W/O,-,-,2020,5735.27,112,36,-,Pine Ridge,ResidentialProperty,43.50991377,-80.18752459
+23 Devere Drive ,"$745,600",['Sold on Jun 28 2021'],"$830,000",3,3,1,1100-1500,-,Bungalow,Finished,-,-,2021,5347,140,55.02,-,Old University,ResidentialProperty,43.51573697,-80.2520272
+23 Doyle Drive ,"$799,900",['Sold on May 11 2021'],"$809,000",29,2,-,1100-1500,16-30 years,Bungalow,Finished,-,-,2021,4135,106,46,-,Clairfields,ResidentialProperty,43.4993243,-80.1919704
+23 Eliot Place ,"$529,900",['Sold on Sep 04 2021'],"$641,250",7,3,-,700-1100,31-50 years,Bungalow,Full,-,-,2021,3260,100.61,21.7,-,Grange Hill East,ResidentialProperty,43.5660204,-80.23821329
+23 Mullin Drive ,"$799,000",['Sold on Jun 02 2021'],"$780,000",16,3,-,1500-2000,6-15 years,2-Storey,Finished,-,-,2021,2066.03,114.83,29.53,-,Brant,ResidentialProperty,43.5813532,-80.2597909
+230 Alma Street North ,"$675,000",['Sold on Jul 21 2021'],"$702,000",7,3,-,-,51-99 years,Bungalow,Finished,-,-,2021,3496,100,53,-,Onward Willow,ResidentialProperty,43.54220735,-80.27162248
+231 Goodwin Drive ,"$929,900",['Sold on Jun 11 2021'],"$1,010,000",1,4,-,1500-2000,-,2-Storey,Finished,2016,465000,2021,5256,105.73,33.94,-,Pine Ridge,ResidentialProperty,43.51275,-80.175557
+236 Summerfield Drive ,"$1,149,900",['Sold on Jul 14 2021'],"$1,200,000",14,3,1,2000-2500,16-30 years,2-Storey,Finished,-,-,2021,6284.35,105,40,-,Pine Ridge,ResidentialProperty,43.51880718,-80.18170882
+24 Bennett Avenue ,"$799,900",['Sold on Jun 01 2021'],"$760,000",19,4,-,1100-1500,51-99 years,2-Storey,Finished,-,-,2021,3717,102,51,-,Two Rivers,ResidentialProperty,43.55745182,-80.24578296
+24 Cadillac Drive ,"$799,900",['Sold on May 22 2021'],"$775,000",8,3,1,700-1100,51-99 years,Bungalow,Finished,-,-,2020,4938,100,67,713250017,Two Rivers,ResidentialProperty,43.55797698,-80.246506
+24 Glenbrook Drive ,"$729,000",['Sold on Jun 28 2021'],"$900,000",5,3,1,-,31-50 years,Bungalow-Raised,Finished,2021,343000,2020,3851,110,55.09,713580596,Waverley,ResidentialProperty,43.57536457,-80.26460143
+24 Ridgewood Avenue ,"$710,000",['Sold on Jun 12 2021'],"$700,000",3,3,-,700-1100,-,Bungalow,Fin W/O,2021,318000,2021,3633.5,143,42,-,Onward Willow,ResidentialProperty,43.5373519,-80.2708187
+24 Valleyhaven Lane ,"$799,900",['Sold on Sep 07 2021'],"$851,500",5,3,1,1500-2000,6-15 years,Backsplit 4,Full,-,-,2021,3793.46,115,31.17,-,Grange Hill East,ResidentialProperty,43.55964433,-80.22044337
+240 Dublin Street North ,"$1,525,000",['Sold on Oct 04 2021'],"$1,360,000",32,5,-,-,-,3-Storey,Full,-,-,2021,6352.91,138,60,-,Exhibition Park,ResidentialProperty,43.548258,-80.257945
+240 Summerfield Drive ,"$1,200,000",['Sold on Sep 01 2021'],"$1,175,000",33,4,-,2000-2500,16-30 years,2-Storey,Fin W/O,2021,514000,2021,5873.01,105,46,711860539,Pine Ridge,ResidentialProperty,43.5156042,-80.1859542
+241 Stephanie Drive ,"$849,900",['Sold on Sep 17 2021'],"$965,133",2,4,-,2000-2500,31-50 years,2-Storey,Finished,-,-,2021,5266,-,56.23,712590051,West Willow Woods,ResidentialProperty,43.5240484,-80.2751485
+249 Farley Drive ,"$989,900",['Sold on May 16 2021'],"$1,105,000",1,4,-,2000-2500,16-30 years,2-Storey,Finished,-,-,2021,6455.74,-,54,-,Pine Ridge,ResidentialProperty,43.510783,-80.188319
+25 Boulder Crescent ,"$799,900",['Sold on May 09 2021'],"$840,000",6,3,1,1500-2000,-,2-Storey,Fin W/O,-,-,2020,5313,104.99,29.53,-,Clairfields,ResidentialProperty,43.4949496,-80.19779118
+25 Foxwood Crescent ,"$995,800",['Sold on Jul 14 2021'],"$1,250,000",5,4,2,2000-2500,31-50 years,2-Storey,Finished,-,-,2021,6135,81.81,123.26,-,Kortright Hills,ResidentialProperty,43.50276168,-80.24097495
+25 Pondview Crescent ,"$1,275,000",['Sold on Jun 01 2021'],"$1,280,000",7,4,1,-,-,Sidesplit 4,Apartment,-,-,2020,7298.47,113.92,50,-,Waverley,ResidentialProperty,43.57423426,-80.27056252
+25 Raglan Street ,"$689,900",['Sold on May 13 2021'],"$790,000",3,2,1,-,51-99 years,2-Storey,Apartment,-,-,2021,3402.21,132,31,-,Onward Willow,ResidentialProperty,43.53975429,-80.26294761
+25 Richardson Street ,"$789,900",['Sold on Nov 24 2021'],"$798,000",36,4,-,1500-2000,51-99 years,2-Storey,Unfinished,2021,378000,2021,4319.06,213.22,40.68,713390110,Two Rivers,ResidentialProperty,43.54299309,-80.23964761
+250 Elmira Road South ,"$769,900",['Sold on Aug 30 2021'],"$950,000",6,4,-,1500-2000,31-50 years,2-Storey,Finished,-,-,2021,4810.38,103.35,50.98,712540080,Onward Willow,ResidentialProperty,43.51924591,-80.28261914
+253 MacAlister Boulevard ,"$1,289,000",['Sold on May 26 2021'],"$1,280,000",6,4,1,-,0-5 years,2-Storey,Fin W/O,-,-,2020,6400,85.89,34.12,-,Kortright Hills,ResidentialProperty,43.5291853,-80.2000243
+26 High Park Drive ,"$699,000",['Sold on Sep 20 2021'],"$788,000",3,3,-,700-1100,51-99 years,Bungalow,Full,2021,374000,2021,4273,121,55,712450029,Old University,ResidentialProperty,43.53140383,-80.24828323
+26 Pinetree Drive ,"$829,900",['Sold on Nov 08 2021'],"$960,000",6,3,-,1100-1500,31-50 years,Bungalow-Raised,Finished,2021,376000,2021,4296,105,50,712540545,West Willow Woods,ResidentialProperty,43.52375585,-80.28322818
+26 Vista Terrace ,"$749,900",['Sold on Aug 23 2021'],"$850,000",6,4,-,-,-,Bungalow-Raised,Finished,-,-,2021,4490.45,107,40,713580420,Waverley,ResidentialProperty,43.57523172,-80.2683643
+26 Wideman Boulevard ,"$899,900",['Sold on May 11 2021'],"$892,000",12,3,-,1500-2000,6-15 years,2-Storey,Finished,-,-,2021,4502.59,115.5,31.43,-,Waverley,ResidentialProperty,43.58177027,-80.26601692
+261 Water Street ,"$599,900",['Sold on Sep 27 2021'],"$740,000",5,3,2,1100-1500,51-99 years,Backsplit 3,Part Bsmt,-,-,2021,3579.4,-,56.04,-,Old University,ResidentialProperty,43.5307234,-80.2526047
+27 Bathgate Drive ,"$1,149,000",['Sold on Sep 23 2021'],"$1,281,000",9,3,-,2000-2500,31-50 years,2-Storey,Full,2021,575000,2021,6558,104.13,62.34,715040056,Village,ResidentialProperty,43.52147118,-80.2078883
+27 Baxter Drive ,"$1,499,900",['Sold on May 06 2021'],"$1,510,000",6,4,1,2500-3000,6-15 years,2-Storey,Finished,2021,734000,2021,8241.72,117.29,52.58,-,Clairfields,ResidentialProperty,43.51502925,-80.17889994
+27 Clythe Creek Drive ,"$719,900",['Sold on Aug 30 2021'],"$815,000",7,3,-,1500-2000,16-30 years,2-Storey,Finished,2021,-,2021,4562.67,109.96,31.17,-,Grange Hill East,ResidentialProperty,43.571427,-80.21826
+27 Elginfield Drive ,"$999,900",['Sold on Nov 13 2021'],"$1,175,027",4,2,2,-,-,Bungalow,Finished,-,-,2021,6055.83,123.2,70,-,Grange Hill East,ResidentialProperty,43.5673945,-80.242046
+27 Emeny Lane ,"$1,399,900",['Sold on Sep 03 2021'],"$1,350,000",44,4,1,3000-3500,0-5 years,2-Storey,Full,-,-,2021,2800,100,49,-,Guelph South,ResidentialProperty,43.5180321,-80.2013607
+27 Green Street ,"$1,199,900",['Sold on Dec 04 2021'],"$1,326,000",39,4,-,2500-3000,100+ years,2-Storey,Part Bsmt,-,-,2021,-,-,63,71292023,Exhibition Park,ResidentialProperty,43.54795443,-80.25588473
+271 West Acres Drive ,"$795,900",['Sold on Aug 10 2021'],"$795,900",7,3,-,1100-1500,-,2-Storey,Full,2021,340000,2021,4079.93,100,50,712540362,Parkwood Gardens,ResidentialProperty,43.52044395,-80.27568423
+273 Arthur Street North ,"$849,000",['Sold on Aug 24 2021'],"$1,040,000",5,3,1,-,51-99 years,Bungalow,Full,2016,531000,2021,6067.25,180.31,100.89,713190361,Central East,ResidentialProperty,43.55408717,-80.25524857
+28 Blueridge Court ,"$899,900",['Sold on Nov 15 2021'],"$999,000",5,3,-,-,-,Sidesplit 5,Fin W/O,-,-,2021,4924.64,181.85,39.79,712640092,West Willow Woods,ResidentialProperty,43.53631278,-80.28599192
+28 Eastview Road ,"$699,900",['Sold on Sep 23 2021'],"$833,000",6,3,1,1500-2000,51-99 years,2-Storey,Finished,-,-,2021,4547.58,108,51.86,71348016,Grange Hill East,ResidentialProperty,43.566462,-80.24015353
+28 Islington Avenue ,"$749,900",['Sold on Jul 17 2021'],"$780,000",2,3,1,1100-1500,31-50 years,Backsplit 4,Full,2021,384000,2021,4387.62,-,40,713580665,Brant,ResidentialProperty,43.57826774,-80.26214062
+28 Walman Drive ,"$649,000",['Sold on Jun 26 2021'],"$649,000",5,4,-,1100-1500,16-30 years,2-Storey,Finished,2021,331000,2021,3782,123.73,38.65,712230098,Kortright Hills,ResidentialProperty,43.515522,-80.228621
+286 Macalister Boulevard ,"$1,050,000",['Sold on Oct 06 2021'],"$1,101,000",14,4,-,2000-2500,0-5 years,2-Storey,Full,2021,532000,2021,6079,-,29,715050919,Village,ResidentialProperty,43.5291853,-80.2000243
+288 Macalister Boulevard ,"$1,089,900",['Sold on Dec 03 2021'],"$1,115,000",16,3,1,-,0-5 years,2-Storey,Finished,-,-,2021,5587.36,-,28.51,-,Village,ResidentialProperty,43.5291853,-80.2000243
+29 Julia Drive ,"$850,000",['Sold on Oct 26 2021'],"$990,000",12,3,-,1100-1500,51-99 years,Bungalow,Part Fin,-,-,2021,3473.53,127,60,-,Onward Willow,ResidentialProperty,43.54227047,-80.26985544
+29 Kortright Road East ,"$1,100,000",['Sold on Sep 03 2021'],"$1,220,000",2,4,2,2500-3000,-,2-Storey,Finished,-,-,2020,7073.91,133.21,64.97,-,Guelph South,ResidentialProperty,43.524133,-80.210773
+29 McTague Street ,"$1,419,000",['Sold on Jun 28 2021'],"$1,370,000",26,3,-,-,-,Bungalow,Full,2021,591000,2020,6044.26,124,59,712990111,Exhibition Park,ResidentialProperty,43.5502304,-80.25859095
+29 Merganser Drive ,"$1,235,000",['Sold on Aug 19 2021'],"$1,100,000",30,4,-,2000-2500,-,Backsplit 4,Finished,-,-,2021,5210.3,138.83,47.89,-,Kortright Hills,ResidentialProperty,43.49725863,-80.24035358
+29 Westra Drive ,"$999,900",['Sold on Jun 17 2021'],"$1,225,000",3,4,-,2500-3000,6-15 years,2-Storey,Unfinished,2021,603000,2020,6770,129.27,49.29,714860798,West Willow Woods,ResidentialProperty,43.5232033,-80.30365688
+291 Waterloo Avenue ,"$599,900",['Sold on Nov 24 2021'],"$753,000",7,3,-,700-1100,51-99 years,1 1/2 Storey,Full,2021,333000,2021,3804.89,-,50.43,712800097,Onward Willow,ResidentialProperty,43.5336477,-80.2583486
+3 Braid Place ,"$1,299,000",['Sold on May 04 2021'],"$1,505,000",8,5,-,2500-3000,51-99 years,Bungalow,Full,2021,768000,2021,8623,164,132.28,712370085,Old University,ResidentialProperty,43.53481009,-80.23453691
+3 Flanders Road ,"$699,900",['Sold on Jul 05 2021'],"$825,000",7,3,1,-,-,Bungalow,Full,-,-,2021,4480,-,96,-,Old University,ResidentialProperty,43.514848,-80.245449
+3 Franchetto Boulevard ,"$819,000",['Sold on Jun 28 2021'],"$788,000",14,3,-,-,51-99 years,Bungalow,Finished,-,-,2020,3783.98,100.91,40,-,Central East,ResidentialProperty,43.556753,-80.2370515
+3 Haney Drive ,"$949,999",['Sold on Jul 31 2021'],"$961,000",3,2,2,1100-1500,16-30 years,Bungalow,Finished,-,-,2021,5598.78,104.99,49.87,-,Pine Ridge,ResidentialProperty,43.50980929,-80.18672472
+3 Keats Crescent ,"$899,900",['Sold on Aug 19 2021'],"$1,243,300",7,3,-,1500-2000,31-50 years,Sidesplit 3,Finished,2021,579000,2021,6615.71,131,50,-,Hanlon Creek,ResidentialProperty,43.51851431,-80.2204728
+3 Lincoln Crescent ,"$699,000",['Sold on Jun 02 2021'],"$770,000",6,3,-,1100-1500,51-99 years,1 1/2 Storey,Full,2021,366000,2021,4181.95,-,84,713270036,Central East,ResidentialProperty,43.56308557,-80.24683393
+3 Monticello Crescent ,"$1,199,000",['Sold on Jun 02 2021'],"$1,050,000",54,4,2,2000-2500,51-99 years,2-Storey,Finished,2021,626000,2020,7028.99,135,88.68,715050085,Kortright Hills,ResidentialProperty,43.525759,-80.221104
+3 Pearson Street ,"$799,900",['Sold on May 28 2021'],"$900,000",3,3,-,2000-2500,6-15 years,2 1/2 Storey,Full,2021,476000,2021,5438.82,108,30.23,-,Pine Ridge,ResidentialProperty,43.50885,-80.18048833
+3 Simmonds Drive ,"$799,900",['Sold on May 05 2021'],"$891,000",7,3,-,1500-2000,6-15 years,2-Storey,Full,-,-,2021,4682,114.83,36.58,-,Waverley,ResidentialProperty,43.57896162,-80.26987224
+3 Teal Dr ,"$985,000",['Sold on May 31 2021'],"$1,125,000",19,5,-,-,16-30 years,2-Storey,Finished,-,-,2020,6815.65,131,39,-,Kortright Hills,ResidentialProperty,43.49734138,-80.23349612
+30 Borland Drive ,"$889,900",['Sold on Jun 29 2021'],"$981,100",4,4,-,1500-2000,16-30 years,2-Storey,Part Fin,-,-,2021,5130,-,45.24,-,Clairfields,ResidentialProperty,43.49867264,-80.1981603
+30 Rodgers Road ,"$629,000",['Sold on Mar 12 2021'],"$631,000",8,3,1,-,16-30 years,2-Storey,Finished,-,-,2021,3604,112.49,30.18,714900639,Kortright Hills,ResidentialProperty,43.51394813,-80.2157212
+303 Auden Road ,"$629,900",['Sold on Nov 22 2021'],"$800,000",5,2,-,700-1100,31-50 years,Bungalow,Finished,2016,331000,2021,3900,-,32.48,714930148,Grange Hill East,ResidentialProperty,43.56335586,-80.22890886
+31 Beaver Meadow Drive ,"$1,039,900",['Sold on Jun 02 2021'],"$1,020,000",28,3,1,1500-2000,16-30 years,2-Storey,Fin W/O,-,-,2021,5267.2,111.55,36.09,-,Clairfields,ResidentialProperty,43.5096564,-80.1871799
+31 Trailbrook Lane ,"$700,000",['Sold on Jun 22 2021'],"$740,000",6,3,-,1500-2000,16-30 years,2-Storey,Finished,2021,335000,2021,3827.74,102,30,713440198,Grange Hill East,ResidentialProperty,43.56132573,-80.22358855
+31 Waverley Drive ,"$1,124,000",['Sold on Oct 26 2021'],"$1,200,000",5,3,1,-,-,Bungalow,Finished,-,-,2021,6272.92,110,75,713080108,Waverley,ResidentialProperty,43.56792648,-80.26541656
+31 Woodland Glen Drive ,"$999,900",['Sold on May 26 2021'],"$1,211,000",5,2,2,2000-2500,-,2-Storey,Fin W/O,-,-,2021,7168.22,132,58,-,Kortright Hills,ResidentialProperty,43.50781533,-80.24482969
+32 Cheltonwood Avenue ,"$729,900",['Sold on Jul 19 2021'],"$775,000",4,3,-,1100-1500,-,Sidesplit 3,Full,2021,339000,2021,3873.44,103,75,713480208,Grange Hill East,ResidentialProperty,43.56785196,-80.24091524
+32 Creighton Avenue ,"$969,000",['Sold on Nov 01 2021'],"$1,100,000",4,3,-,1500-2000,6-15 years,2-Storey,Apartment,-,-,2021,4918.98,119.5,44.42,-,Grange Hill East,ResidentialProperty,43.5720528,-80.2266566
+32 Darnell Road ,"$849,900",['Sold on Apr 10 2021'],"$820,000",29,3,-,1500-2000,-,2 1/2 Storey,Finished,-,-,2021,5010,104.4,30.92,-,Kortright Hills,ResidentialProperty,43.515059,-80.210903
+32 Mclachlin Place ,"$899,900",['Sold on Sep 29 2021'],"$1,042,000",7,3,2,1500-2000,16-30 years,2-Storey,Full,-,-,2021,4947,115,45,-,West Willow Woods,ResidentialProperty,-,-
+32 McNulty Lane ,"$1,425,000",['Sold on May 03 2021'],"$1,600,000",6,4,-,2500-3000,6-15 years,2-Storey,Part Fin,-,-,2020,7939,105,64,-,Pine Ridge,ResidentialProperty,43.51645971,-80.18403231
+32 Ryder Avenue ,"$1,475,000",['Sold on May 10 2021'],"$1,475,000",94,2,1,1500-2000,New,Bungalow,Sep Entrance,-,-,2020,1785.32,121,47,-,Kortright Hills,ResidentialProperty,43.5162465,-80.2123403
+324 Victoria Road North ,"$650,000",['Sold on Aug 22 2021'],"$695,000",9,3,-,700-1100,51-99 years,Bungalow,Apartment,-,-,2021,3444.66,115,53,-,Waverley,ResidentialProperty,43.5728525,-80.2533394
+33 Flanders Road ,"$899,900",['Sold on Nov 19 2021'],"$893,000",17,4,-,1500-2000,51-99 years,Sidesplit 4,Finished,-,-,2021,4030,110,60,-,Old University,ResidentialProperty,43.513063,-80.247691
+33 Hyland Road ,"$999,999",['Sold on Oct 17 2021'],"$1,075,000",27,3,2,-,-,Backsplit 4,Finished,-,-,2021,5324,125,50,-,Brant,ResidentialProperty,43.57124819,-80.2452641
+33 Mcilwraith Crescent ,"$619,900",['Sold on Jun 11 2021'],"$620,000",7,2,1,-,-,Backsplit 4,Finished,-,-,2021,3004,120,30,-,Grange Hill East,ResidentialProperty,43.56532529,-80.23653249
+33 Peer Drive ,"$978,000",['Sold on May 25 2021'],"$1,060,000",12,3,1,-,-,2-Storey,Finished,-,-,2020,5681.58,-,32.38,-,Kortright Hills,ResidentialProperty,43.49827946,-80.22813965
+33 Samuel Drive ,"$1,099,900",['Sold on Sep 11 2021'],"$1,095,000",32,3,2,2000-2500,6-15 years,2-Storey,Apartment,-,-,2021,5713,112,54,-,Pine Ridge,ResidentialProperty,43.51342452,-80.17442111
+33 Vancouver Drive ,"$649,000",['Sold on Sep 07 2021'],"$600,000",53,2,-,700-1100,51-99 years,1 1/2 Storey,Full,-,-,2021,3279,-,47.01,-,Central East,ResidentialProperty,43.56103283,-80.23851985
+330 Exhibition Street ,"$1,085,000",['Sold on Aug 12 2021'],"$1,085,000",28,3,1,1500-2000,New,2-Storey,Apartment,-,-,2021,-,100,36,712970411,Exhibition Park,ResidentialProperty,43.55550906,-80.26911977
+339 West Acres Drive ,"$699,900",['Sold on May 31 2021'],"$910,000",7,3,1,1100-1500,31-50 years,Bungalow-Raised,Finished,2021,377000,2021,4307.64,-,61,-,West Willow Woods,ResidentialProperty,43.51616545,-80.28012481
+34 Bailey Avenue ,"$750,000",['Sold on Jun 12 2021'],"$745,000",4,3,-,-,-,2-Storey,Finished,-,-,2020,3900,104.5,30.05,-,June Avenue,ResidentialProperty,43.55881331,-80.27406672
+34 Eramosa Road ,"$699,900",['Sold on Jun 03 2021'],"$695,000",1,3,-,1100-1500,100+ years,2-Storey,Full,-,-,2021,3812.05,-,36.38,-,Central East,ResidentialProperty,43.55062433,-80.25045162
+34 Ervin Crescent ,"$699,900",['Sold on May 22 2021'],"$825,000",1,4,1,-,-,2-Storey,Finished,-,-,2021,4224,103.07,48.59,712220156,Kortright Hills,ResidentialProperty,43.5103851,-80.2316785
+34 Muskoka Drive ,"$749,900",['Sold on Aug 12 2021'],"$855,500",7,3,-,1100-1500,31-50 years,Bungalow-Raised,Part Bsmt,2021,350000,2021,3990,120,47,713530134,Brant,ResidentialProperty,43.58026145,-80.25322668
+342 West Acres Drive ,"$775,000",['Sold on Nov 10 2021'],"$980,000",12,3,-,2000-2500,31-50 years,Sidesplit 4,Finished,-,-,2021,4788,98,51.79,-,West Willow Woods,ResidentialProperty,43.51591038,-80.28007776
+346 Kathleen Street ,"$699,900",['Sold on Nov 09 2021'],"$925,000",5,3,-,700-1100,51-99 years,Bungalow,Finished,2021,340000,2021,3884.87,120,60.01,712960122,June Avenue,ResidentialProperty,43.55680503,-80.274332
+35 Aspen Valley Crescent ,"$899,000",['Sold on Oct 13 2021'],"$911,000",9,4,2,1500-2000,31-50 years,2-Storey,Finished,-,-,2020,4200,45.93,75.21,712210021,Kortright Hills,ResidentialProperty,43.511946,-80.238115
+35 Melrose Place ,"$899,900",['Sold on Nov 10 2021'],"$928,000",7,3,-,1500-2000,-,Backsplit 3,Finished,-,-,2021,4647,-,38.55,-,West Willow Woods,ResidentialProperty,43.52577323,-80.27207097
+35 Moss Place ,"$820,000",['Sold on Aug 16 2021'],"$795,000",25,3,1,1100-1500,16-30 years,2-Storey,Finished,2021,377000,2021,4307.64,110,30,712290039,Kortright Hills,ResidentialProperty,43.515101,-80.21780199
+35 Ridgeway Avenue ,"$999,900",['Sold on May 11 2021'],"$1,300,000",5,5,1,-,-,Bungalow,Finished,-,-,2020,6995,185,82,-,Pine Ridge,ResidentialProperty,43.51368492,-80.19364955
+355 Imperial Road South ,"$799,000",['Sold on Aug 28 2021'],"$843,000",10,3,1,-,-,Bungalow,Finished,2021,324000,2021,3702.05,109,51,712540530,Parkwood Gardens,ResidentialProperty,43.5233851,-80.27669155
+357 Kathleen Street ,"$800,000",[],"$800,000",12,3,2,1100-1500,16-30 years,Bungalow,Part Fin,-,-,2020,4603,131.23,42.22,713020074,June Avenue,ResidentialProperty,43.55768421,-80.27526678
+357 Starwood Drive ,"$949,900",['Sold on Oct 13 2021'],"$949,900",7,3,-,1500-2000,16-30 years,2-Storey,Fin W/O,2020,453000,2021,5176.02,110,45.34,714930261,Grange Hill East,ResidentialProperty,43.56826617,-80.22910733
+36 Sugarbush Place ,"$1,099,900",['Sold on Jul 22 2021'],"$1,095,000",8,3,-,2500-3000,31-50 years,Other,Full,2021,660000,2020,7410.76,131,39.93,712660024,Onward Willow,ResidentialProperty,43.5367079,-80.2949242
+36 Woodridge Drive ,"$749,900",['Sold on Oct 24 2021'],"$841,500",3,3,-,1100-1500,31-50 years,Bungalow-Raised,Finished,-,-,2021,4147.67,100,54.99,-,Parkwood Gardens,ResidentialProperty,43.5153756,-80.282188
+364 York Road ,"$679,900",['Sold on May 30 2021'],"$700,000",10,3,-,1100-1500,-,2-Storey,Half,-,-,2021,4706,100,39,-,Village,ResidentialProperty,43.5487764,-80.2284644
+367 Stephanie Drive ,"$799,900",['Sold on Aug 04 2021'],"$810,000",6,3,-,1500-2000,16-30 years,Sidesplit 4,Finished,-,-,2021,4591.73,110,52,-,West Willow Woods,ResidentialProperty,43.5216644,-80.28662164
+37 Arbordale Walk ,"$879,900",['Sold on Oct 06 2021'],"$1,450,000",7,4,-,1500-2000,16-30 years,Bungalow,Finished,2021,420120,2021,4800.33,-,50,-,Village,ResidentialProperty,43.5292748,-80.21664404
+37 Columbus Crescent ,"$949,900",['Sold on Oct 12 2021'],"$1,200,000",-,4,-,-,-,2-Storey,Full,2021,568000,2021,8100,114.67,60.01,-,Kortright Hills,ResidentialProperty,43.51980225,-80.2189525
+37 Doyle Drive ,"$799,900",['Sold on Oct 13 2021'],"$825,000",6,3,-,1100-1500,16-30 years,2-Storey,Finished,-,-,2021,4627,106,41,-,Clairfields,ResidentialProperty,43.4987816,-80.1926899
+37 Hillcrest Drive ,"$879,000",['Sold on May 08 2021'],"$850,000",8,1,2,700-1100,-,Bungalow,Part Fin,-,-,2020,2941.85,112,50,-,Two Rivers,ResidentialProperty,43.55048639,-80.24134587
+37 June Avenue ,"$825,000",['Sold on May 16 2021'],"$795,000",40,3,-,-,-,Bungalow-Raised,Finished,-,-,2020,3875,104,64,-,Exhibition Park,ResidentialProperty,43.55411417,-80.27571386
+37 Koch Drive ,"$749,000",['Sold on Aug 06 2021'],"$750,000",13,3,-,1100-1500,31-50 years,2-Storey,Full,-,-,2021,3999.13,130.48,28,-,Hanlon Creek,ResidentialProperty,43.51442574,-80.22796089
+37 Trimble Crescent ,"$1,149,000",['Sold on Jun 08 2021'],"$1,290,000",5,3,-,2000-2500,6-15 years,2-Storey,Finished,2021,539000,2021,6158.66,-,32,-,Grange Hill East,ResidentialProperty,43.57150191,-80.2262339
+37 Youngman Drive ,"$799,900",['Sold on May 18 2021'],"$872,500",5,3,-,1500-2000,31-50 years,2-Storey,Finished,-,-,2020,4637.34,108.27,54.13,-,Kortright Hills,ResidentialProperty,43.51870529,-80.22711653
+373 Speedvale Avenue East ,"$869,900",['Sold on Dec 08 2021'],"$975,000",6,3,2,-,-,Bungalow,Finished,-,-,2021,3952.4,120,52,-,Two Rivers,ResidentialProperty,43.5685239,-80.2540522
+375 York Road ,"$599,000",['Sold on Jul 22 2021'],"$585,000",26,2,2,700-1100,51-99 years,Bungalow,Finished,2021,-,2020,2986.76,159,37.99,712370390,Two Rivers,ResidentialProperty,43.54863663,-80.22814607
+38 Baxter Drive ,"$1,199,500",['Sold on Aug 30 2021'],"$1,360,777",5,3,-,-,6-15 years,2-Storey,Finished,-,-,2021,6488.23,111.73,40.09,-,Pine Ridge,ResidentialProperty,43.51528397,-80.17887107
+38 Camm Crescent ,"$949,000",['Sold on Sep 21 2021'],"$1,023,000",8,3,1,1500-2000,16-30 years,2-Storey,Finished,-,-,2020,5131.39,103.6,26.69,71186043,Pine Ridge,ResidentialProperty,43.51226949,-80.19010363
+38 Creighton Avenue ,"$949,999",['Sold on May 17 2021'],"$995,000",3,3,-,-,-,2-Storey,Finished,2021,441000,2020,4951.73,114,43.9,-,Grange Hill East,ResidentialProperty,43.57220027,-80.22626117
+38 Crossingham Drive ,"$650,000",['Sold on Jul 13 2021'],"$675,000",6,3,1,1100-1500,31-50 years,2-Storey,Finished,2021,316000,2021,3610.64,105,30,712540758,West Willow Woods,ResidentialProperty,43.52369006,-80.28449679
+38 Deerpath Drive ,"$849,000",['Sold on Nov 06 2021'],"$1,068,000",2,4,-,-,-,2-Storey,Finished,-,-,2021,5667.34,113,51.32,-,West Willow Woods,ResidentialProperty,43.52579373,-80.27620067
+38 Forster Drive ,"$989,500",['Sold on Jul 12 2021'],"$1,211,000",6,4,-,2500-3000,31-50 years,2-Storey,Full,-,-,2021,6924.21,118.4,88.85,-,Village,ResidentialProperty,43.52744898,-80.21044137
+38 Keats Crescent ,"$1,125,000",['Sold on Aug 09 2021'],"$1,150,000",14,4,2,1500-2000,31-50 years,Backsplit 4,Finished,2021,587000,2021,6707.6,105,51,712280109,Kortright Hills,ResidentialProperty,43.51715007,-80.21908016
+38 McCurdy Road ,"$749,000",['Sold on Jul 06 2021'],"$728,000",13,4,-,-,-,2-Storey,Finished,2021,395000,2021,4513.31,114.83,31.71,714900741,Guelph South,ResidentialProperty,43.51144531,-80.21240578
+38 Sunnylea Crescent ,"$699,000",['Sold on Jun 30 2021'],"$850,000",5,3,1,700-1100,51-99 years,Sidesplit 3,Full,2021,349000,2021,4100,100,60,-,Waverley,ResidentialProperty,43.55924219,-80.25514534
+38 Waxwing Crescent ,"$699,900",['Sold on May 01 2021'],"$790,500",4,3,-,1100-1500,16-30 years,2-Storey,Full,2021,372000,2021,4176.97,114.83,32.35,-,Kortright Hills,ResidentialProperty,43.49561242,-80.24311978
+386 Stevenson Street North ,"$699,900",['Sold on Sep 03 2021'],"$810,000",3,3,1,-,-,Bungalow,Finished,-,-,2021,3747.04,109,56,713120069,Waverley,ResidentialProperty,43.56459148,-80.25593453
+39 Fuller Drive ,"$758,988",['Sold on Sep 07 2021'],"$765,700",28,3,-,1100-1500,16-30 years,2-Storey,Finished,-,-,2021,4009,108,31,714931547,Grange Hill East,ResidentialProperty,43.57152467,-80.21568367
+39 Kron Drive ,"$899,900",['Sold on Sep 29 2021'],"$896,900",14,4,-,1500-2000,31-50 years,Sidesplit 3,Finished,2021,461000,2021,5267.43,105,52,-,Hanlon Creek,ResidentialProperty,43.51807387,-80.21825911
+39 Mallard Court ,"$769,000",['Sold on Jun 11 2021'],"$750,000",8,2,1,-,-,Bungalow,Finished,-,-,2020,3900,124.83,29.66,-,Kortright Hills,ResidentialProperty,43.49866725,-80.24288918
+39 Troy Crescent ,"$529,000",['Sold on May 20 2021'],"$635,000",8,2,-,700-1100,16-30 years,2-Storey,Finished,-,-,2021,3099.04,-,28,-,Grange Hill East,ResidentialProperty,43.5679013,-80.23408542
+39 Washburn Drive ,"$1,100,000",['Sold on Oct 01 2021'],"$1,083,000",26,5,-,2000-2500,6-15 years,2-Storey,Finished,2021,448000,2021,4500,111,44,714932040,Grange Hill East,ResidentialProperty,43.57011708,-80.23216849
+398 Westwood Road ,"$849,700",['Sold on Aug 10 2021'],"$940,000",5,3,-,1500-2000,16-30 years,2-Storey,Finished,2016,362000,2021,4136.24,99.2,37.99,712670307,West Willow Woods,ResidentialProperty,43.53468123,-80.296065
+399 Starwood Drive ,"$719,900",['Sold on Jun 23 2021'],"$725,900",23,3,-,1500-2000,-,Backsplit 3,Unfinished,2021,337000,2020,3783.98,124.46,36.24,714930244,Grange Hill East,ResidentialProperty,43.56927962,-80.23225081
+4 Bronwyn Place ,"$649,900",['Sold on Sep 01 2021'],"$661,000",-,3,-,700-1100,16-30 years,Bungalow,Full,2021,326000,2020,3660.46,107,30.54,712580572,West Willow Woods,ResidentialProperty,43.52802136,-80.27196364
+4 Glenda Court ,"$895,000",['Sold on Aug 04 2021'],"$950,000",1,4,-,1500-2000,31-50 years,Sidesplit 4,Crawl Space,-,-,2021,4593.29,60,120,-,West Willow Woods,ResidentialProperty,43.5391876,-80.2848754
+4 Kingsley Court ,"$779,900",['Sold on May 11 2021'],"$850,000",6,3,1,1500-2000,51-99 years,Sidesplit 3,Fin W/O,2021,349000,2020,3918.72,60,118.01,713030082,Waverley,ResidentialProperty,43.5730143,-80.2609082
+4 Linke Place ,"$889,000",['Sold on Aug 08 2021'],"$903,000",16,5,-,1500-2000,6-15 years,2-Storey,Full,2021,424000,2021,4760.85,110,30,713560791,Grange Hill East,ResidentialProperty,43.58152192,-80.22378113
+4 Rosanne Street ,"$699,900",['Sold on Jun 28 2021'],"$715,000",5,3,-,700-1100,31-50 years,2-Storey,Finished,-,-,2021,3427.86,100,35,-,West Willow Woods,ResidentialProperty,43.51341835,-80.28043572
+4 Rosedale Avenue ,"$786,000",['Sold on May 09 2021'],"$760,000",4,3,-,1100-1500,51-99 years,Sidesplit 4,Full,-,-,2020,3896,67,94.16,-,Central East,ResidentialProperty,43.5580035,-80.24422
+4 Sunrise Court ,"$839,500",['Sold on Aug 15 2021'],"$815,000",12,3,-,1500-2000,16-30 years,Sidesplit 4,Full,2020,393000,2021,4490.4,113.19,55.77,-,Parkwood Gardens,ResidentialProperty,43.516113,-80.28293155
+4 Wiltshire Place ,"$999,900",['Sold on Oct 07 2021'],"$1,015,000",8,4,-,2000-2500,31-50 years,2-Storey,Finished,-,-,2021,6090,177,55.77,712670264,Onward Willow,ResidentialProperty,43.532411,-80.2971014
+40 Derry Street ,"$1,499,000",['Sold on May 22 2021'],"$1,400,000",24,3,1,2500-3000,6-15 years,2-Storey,Finished,2021,707000,2021,7938.49,108.9,50,713190349,Waverley,ResidentialProperty,43.5530121,-80.2525428
+40 Ervin Crescent ,"$899,900",['Sold on Nov 22 2021'],"$1,015,000",5,4,2,-,-,2-Storey,Apartment,-,-,2021,4890,-,28.5,-,Hanlon Creek,ResidentialProperty,43.510183,-80.231422
+40 Ferman Drive ,"$824,900",['Sold on Oct 25 2021'],"$940,200",4,3,-,1100-1500,31-50 years,2-Storey,Finished,-,-,2021,4136.24,116.78,46.78,712600021,West Willow Woods,ResidentialProperty,43.53077301,-80.28603812
+40 Philip Avenue ,"$699,900",['Sold on Sep 28 2021'],"$790,000",4,3,-,1100-1500,51-99 years,Bungalow,Finished,2021,324000,2021,3702.05,103.89,52.99,713110041,Waverley,ResidentialProperty,43.56232345,-80.26057847
+40 Queensdale Crescent ,"$649,000",['Sold on Sep 26 2021'],"$781,000",3,3,1,1100-1500,31-50 years,Bungalow-Raised,Finished,2016,384000,2021,4464,100,58.83,712560057,Parkwood Gardens,ResidentialProperty,43.51596558,-80.27436642
+407 Starwood Drive ,"$839,900",['Sold on Aug 30 2021'],"$870,000",6,3,2,2000-2500,16-30 years,2-Storey,Finished,2021,381000,2021,4353.34,-,43,714930240,Grange Hill East,ResidentialProperty,43.56949973,-80.23278985
+409 Imperial Road South ,"$599,900",['Sold on May 18 2021'],"$660,000",4,3,-,-,-,Bungalow,None,-,-,2021,3478,116.56,49.38,-,West Willow Woods,ResidentialProperty,43.52170995,-80.2727273
+41 Paul Avenue ,"$775,000",['Sold on Jul 14 2021'],"$956,500",6,3,1,1100-1500,-,Bungalow,Finished,-,-,2021,4200,153,62,-,Central East,ResidentialProperty,43.5619958,-80.25925762
+41 Philip Avenue ,"$775,000",['Sold on Aug 25 2021'],"$765,000",12,3,-,700-1100,-,Bungalow,Full,-,-,2021,3500,93,54,-,Waverley,ResidentialProperty,43.56220858,-80.26039957
+41 Regent Street ,"$799,900",['Sold on May 21 2021'],"$837,500",3,2,1,2000-2500,51-99 years,Bungalow-Raised,Finished,-,-,2020,4570,82.5,72,713370030,Two Rivers,ResidentialProperty,43.54933168,-80.24362269
+41 Wagoners Trail ,"$1,199,900",['Sold on Aug 29 2021'],"$1,055,000",11,3,-,1500-2000,31-50 years,2-Storey,Finished,2021,557000,2021,6353,228,27,712200169,College,ResidentialProperty,43.50932824,-80.24615513
+41 Walman Drive ,"$699,000",['Sold on Oct 19 2021'],"$875,000",6,3,-,-,-,2-Storey,Full,2015,280500,2021,4181.95,122,30,-,Kortright Hills,ResidentialProperty,43.51528513,-80.22784198
+41 Wilton Road ,"$974,900",['Sold on Jul 16 2021'],"$1,080,038",4,3,1,1500-2000,16-30 years,2-Storey,Finished,-,-,2021,5061.76,133,36,-,Waverley,ResidentialProperty,43.57752411,-80.26816705
+411 Auden Road ,"$749,999",['Sold on Jul 22 2021'],"$690,000",36,2,-,-,16-30 years,Backsplit 4,Finished,-,-,2021,3862.02,-,44,-,Grange Hill East,ResidentialProperty,43.567567,-80.231957
+42 Bonar Place ,"$859,900",['Sold on Jul 02 2021'],"$850,000",10,3,-,-,16-30 years,2-Storey,Sep Entrance,2021,391000,2021,4468,125,41.25,-,West Willow Woods,ResidentialProperty,43.52843545,-80.29562191
+42 Caledonia Street ,"$1,499,900",['Sold on Nov 05 2021'],"$1,450,000",21,8,2,-,-,1 1/2 Storey,Apartment,2021,654000,2021,7472.66,182.7,59.1,-,Old University,ResidentialProperty,43.530981,-80.238368
+42 Oakridge Crescent ,"$1,199,900",['Sold on Nov 18 2021'],"$1,382,500",6,3,-,-,-,2-Storey,Part Fin,-,-,2021,6524,118,53,-,Pine Ridge,ResidentialProperty,43.51312232,-80.19141399
+42 Waterloo Avenue ,"$1,100,000",['Sold on Aug 29 2021'],"$1,050,000",12,3,-,2000-2500,-,2-Storey,Unfinished,2021,458000,2021,5233.15,110,33.07,712820056,Central West,ResidentialProperty,43.54024083,-80.25085401
+42 Westminster Avenue ,"$779,000",['Sold on Jun 13 2021'],"$850,000",6,3,-,1500-2000,-,2-Storey,Full,-,-,2020,4401.9,130,54.99,713280040,Central East,ResidentialProperty,43.5674363,-80.24725034
+43 Old Colony Trail ,"$1,095,000",['Sold on Oct 21 2021'],"$1,150,000",2,3,1,-,31-50 years,2-Storey,Finished,-,-,2021,5850.16,124.91,53.12,-,Kortright Hills,ResidentialProperty,43.51026595,-80.24118755
+43 Sinclair Street ,"$749,900",['Sold on Oct 04 2021'],"$863,000",4,3,-,1100-1500,16-30 years,2-Storey,Finished,-,-,2021,4010.56,108,30,-,Pine Ridge,ResidentialProperty,43.50492742,-80.18395964
+44 Kipling Avenue ,"$849,000",['Sold on Jun 16 2021'],"$999,999",6,4,-,1500-2000,31-50 years,2-Storey,Finished,2021,488000,2021,5994.68,112,50,712670060,West Willow Woods,ResidentialProperty,43.53168211,-80.29846294
+44 Pine Ridge Drive ,"$999,900",['Sold on May 03 2021'],"$1,195,000",6,3,1,2000-2500,16-30 years,2-Storey,Fin W/O,2021,583000,2020,6546.17,108,68.8,711860254,Pine Ridge,ResidentialProperty,43.51291873,-80.19060317
+45 Drone Crescent ,"$989,900",['Sold on Oct 20 2021'],"$1,121,900",6,4,-,2000-2500,0-5 years,2-Storey,Finished,2021,459000,2021,5244.58,114,32.41,714860934,West Willow Woods,ResidentialProperty,43.52103455,-80.30665541
+45 Grey Oak Drive ,"$1,250,000",['Sold on May 06 2021'],"$1,225,000",14,4,1,-,-,2-Storey,Fin W/O,-,-,2021,6939.34,105,40,-,Pine Ridge,ResidentialProperty,43.5174389,-80.1849942
+45 Holland Crescent ,"$1,219,000",['Sold on Jul 06 2021'],"$1,200,000",13,4,-,2000-2500,6-15 years,2-Storey,Finished,2021,604000,2021,6901.35,106,45,711862152,Pine Ridge,ResidentialProperty,43.51608912,-80.18969554
+45 Irving Crescent ,"$1,350,000",['Sold on Jun 03 2021'],"$1,305,000",16,5,3,3000-3500,-,2-Storey,Finished,-,-,2020,8892.21,110.31,47.88,-,Clairfields,ResidentialProperty,43.502338,-80.198065
+45 Sinclair Street ,"$749,900",['Sold on Jun 01 2021'],"$871,000",5,3,-,1100-1500,16-30 years,2-Storey,Finished,-,-,2021,4353.3,104,30,-,Pine Ridge,ResidentialProperty,43.50484246,-80.18384037
+46 Darling Crescent ,"$659,900",['Sold on May 03 2021'],"$805,000",4,3,-,1100-1500,-,2-Storey,Finished,-,-,2020,3983.41,107,23,-,Pine Ridge,ResidentialProperty,43.50513472,-80.18819601
+46 Deerpath Drive ,"$789,900",['Sold on Nov 18 2021'],"$898,000",2,3,-,1500-2000,16-30 years,2-Storey,Finished,2021,407000,2021,4650.42,-,39,-,West Willow Woods,ResidentialProperty,43.52597324,-80.27667265
+46 Greenwich Drive ,"$749,900",['Sold on May 03 2021'],"$980,000",4,4,-,1500-2000,31-50 years,Backsplit 3,Finished,-,-,2021,5100,-,62,-,West Willow Woods,ResidentialProperty,43.533144,-80.2999694
+46 Talbot Street ,"$799,900",['Sold on Sep 14 2021'],"$930,000",8,2,2,-,-,Bungalow,Apartment,-,-,2020,6444.82,94,56,712410087,Old University,ResidentialProperty,43.530674,-80.239312
+46 Woodborough Road ,"$999,000",['Sold on Dec 03 2021'],"$1,150,000",8,4,1,-,-,2-Storey,Finished,-,-,2021,5394,-,55,-,Kortright Hills,ResidentialProperty,43.50804037,-80.22778134
+47 Carrington Place ,"$849,900",['Sold on Dec 04 2021'],"$870,000",11,3,1,1500-2000,16-30 years,2 1/2 Storey,Finished,-,-,2021,4673.27,150.72,31.32,230806001,Guelph South,ResidentialProperty,43.51292567,-80.20678506
+47 Hillcrest Drive ,"$959,900",['Sold on Oct 19 2021'],"$940,000",29,2,1,-,-,Bungalow-Raised,Finished,2021,519000,2021,5918.74,99,39.9,713370056,Two Rivers,ResidentialProperty,43.55088442,-80.24190022
+47 Hilldale Crescent ,"$1,099,900",['Sold on Oct 17 2021'],"$1,225,000",3,3,-,2000-2500,16-30 years,2-Storey,Finished,2021,512000,2021,5850,120,56,714900514,Hanlon Creek,ResidentialProperty,43.50690714,-80.22458229
+47 Menzie Avenue ,"$499,999",['Sold on Jun 08 2021'],"$640,500",6,3,-,700-1100,-,1 1/2 Storey,Full,-,-,2021,3222.15,80,34,-,Two Rivers,ResidentialProperty,43.54924461,-80.22422433
+48 Balmoral Drive ,"$785,000",['Sold on Dec 05 2021'],"$985,000",4,3,1,1100-1500,51-99 years,2-Storey,Finished,-,-,2021,4467.6,110,56.23,713040061,Waverley,ResidentialProperty,43.57510035,-80.25824751
+48 Keys Crescent ,"$999,900",['Sold on May 10 2021'],"$1,175,100",4,3,1,1500-2000,6-15 years,Bungalow,Finished,2021,508000,2020,5740,117.32,57.32,714921082,Clairfields,ResidentialProperty,43.500586,-80.199768
+48 Sunnylea Crescent ,"$699,900",['Sold on Aug 19 2021'],"$690,000",55,2,1,700-1100,-,Bungalow,Finished,-,-,2021,3953.43,96.58,91.6,-,Waverley,ResidentialProperty,43.55980538,-80.25484558
+491 Paisley Road ,"$499,900",['Sold on Jun 11 2021'],"$500,000",14,3,-,-,-,1 1/2 Storey,Full,2021,244000,2021,2788,100,50,712740098,Onward Willow,ResidentialProperty,43.53627463,-80.269438
+497 Paisley Road ,"$575,000",['Sold on May 18 2021'],"$570,000",6,2,1,-,-,1 1/2 Storey,Finished,2021,251000,2021,3301,100,50,712740100,Onward Willow,ResidentialProperty,43.5361903,-80.2695545
+5 Arbordale Walk ,"$1,199,900",['Sold on Nov 01 2021'],"$1,860,000",7,2,1,1500-2000,6-15 years,Bungalow,Full,-,-,2021,4909,80,50,-,Village,ResidentialProperty,43.53093457,-80.21642886
+5 Conrad Court ,"$549,000",['Sold on Oct 18 2021'],"$735,000",6,3,2,700-1100,31-50 years,Bungalow,Finished,2021,302000,2021,3450.68,98,53.12,713470118,Grange Hill East,ResidentialProperty,43.563936,-80.234855
+5 Koch Drive ,"$749,900",['Sold on Jun 28 2021'],"$801,000",5,3,1,-,31-50 years,2-Storey,Finished,-,-,2021,4216,161,29,-,Hanlon Creek,ResidentialProperty,43.51516808,-80.2289944
+5 Saint Andrew Street ,"$850,000",['Sold on Apr 28 2021'],"$855,000",7,4,1,1500-2000,51-99 years,1 1/2 Storey,Finished,-,-,2020,4211,75,63,-,Exhibition Park,ResidentialProperty,-,-
+5 Simcoe Street ,"$615,000",['Sold on Sep 01 2021'],"$606,000",54,3,1,1100-1500,-,1 1/2 Storey,Full,-,-,2020,2942,122.29,44.19,713430091,Two Rivers,ResidentialProperty,43.55288446,-80.22739892
+5 Wideman Boulevard ,"$988,800",['Sold on Sep 14 2021'],"$1,095,000",5,3,1,2000-2500,6-15 years,2-Storey,Finished,2021,447000,2021,5152.46,113,31,713581153,Brant,ResidentialProperty,43.5805247,-80.2674155
+50 Huron Street ,"$499,900",['Sold on May 22 2021'],"$475,000",23,2,-,700-1100,100+ years,Bungalow,Unfinished,2021,246000,2020,2762.43,74,40,713420013,Central East,ResidentialProperty,43.5490916,-80.238028
+512 Whitelaw Road ,"$599,900",['Sold on Jun 04 2021'],"$590,000",9,3,-,-,-,2-Storey,Finished,-,-,2020,3413,100,43,-,West Willow Woods,ResidentialProperty,43.51444286,-80.28101294
+516 Paisley Road ,"$574,900",['Sold on Jul 13 2021'],"$575,000",14,4,-,1100-1500,51-99 years,1 1/2 Storey,Crawl Space,-,-,2020,2504,100,49,-,Onward Willow,ResidentialProperty,43.5353374,-80.2701994
+517 Starwood Drive ,"$860,000",['Sold on May 28 2021'],"$925,000",3,3,-,1500-2000,6-15 years,2-Storey,Finished,-,-,2021,4730.4,118.57,30.28,-,Grange Hill East,ResidentialProperty,43.57185556,-80.23621259
+52 Starview Crescent ,"$739,900",['Sold on Jun 27 2021'],"$745,000",12,3,1,1100-1500,16-30 years,2-Storey,Finished,-,-,2020,3997.32,109.91,31.82,714930351,Grange Hill East,ResidentialProperty,43.56596694,-80.22820255
+52 Toronto Street ,"$749,900",['Sold on May 30 2021'],"$725,000",24,3,1,1500-2000,100+ years,2 1/2 Storey,Finished,2021,321000,2020,3686.36,66,33,713400043,Two Rivers,ResidentialProperty,43.5440785,-80.2366302
+52 Watt Street ,"$499,900",['Sold on Sep 22 2021'],"$678,910",7,3,-,1100-1500,16-30 years,2-Storey,Finished,-,-,2020,3197,-,60,-,Grange Hill East,ResidentialProperty,43.56641265,-80.23438566
+53 Periwinkle Way ,"$779,900",['Sold on May 27 2021'],"$840,000",8,3,1,1100-1500,16-30 years,2-Storey,Finished,-,-,2021,4525,105,33,-,Pine Ridge,ResidentialProperty,43.51032275,-80.19033838
+539 Starwood Drive ,"$949,900",['Sold on Jun 24 2021'],"$1,035,000",2,3,-,2000-2500,6-15 years,2-Storey,Finished,-,-,2021,5244.58,114.45,30.28,-,Grange Hill East,ResidentialProperty,43.57285905,-80.23490596
+54 Bushmills Crescent ,"$849,900",['Sold on Jul 22 2021'],"$845,000",22,3,-,1500-2000,16-30 years,Backsplit 4,Finished,2021,388000,2021,4641.9,-,30.54,-,West Willow Woods,ResidentialProperty,43.52828215,-80.27792174
+54 Clive Avenue ,"$1,050,000",['Sold on Nov 09 2021'],"$1,502,000",6,3,-,-,-,Bungalow,Finished,-,-,2021,5073.18,155,73,-,Waverley,ResidentialProperty,43.56542707,-80.2658397
+54 Koch Drive ,"$639,900",['Sold on May 29 2021'],"$660,000",4,3,-,1100-1500,31-50 years,2-Storey,Part Fin,2021,346000,2020,3885.04,112,40,712230166,Guelph South,ResidentialProperty,43.51478369,-80.227278
+540 College Avenue West ,"$769,000",['Sold on May 03 2021'],"$725,000",32,3,-,700-1100,31-50 years,Bungalow,Finished,2021,378000,2020,4450,-,54,712500010,College,ResidentialProperty,43.51496033,-80.25569131
+541 Starwood Drive ,"$849,900",['Sold on Oct 27 2021'],"$975,000",5,3,1,1500-2000,6-15 years,2-Storey,Full,2021,472000,2021,5393.11,113.83,30.28,713490299,Grange Hill East,ResidentialProperty,43.57294905,-80.23477259
+55 Vancouver Drive ,"$749,000",['Sold on May 12 2021'],"$722,000",14,2,2,-,-,Bungalow,Finished,2021,325000,2021,3478,117,60,713290104,Central East,ResidentialProperty,43.5621988,-80.2397615
+556 Starwood Drive ,"$989,900",['Sold on Oct 05 2021'],"$1,150,000",7,3,-,-,6-15 years,2-Storey,Fin W/O,-,-,2021,5713.05,108.25,29.8,-,Grange Hill East,ResidentialProperty,43.573711,-80.234007
+561 Kortright Road West ,"$679,900",['Sold on Sep 22 2021'],"$791,000",5,3,1,-,31-50 years,Bungalow-Raised,Finished,-,-,2021,3436,110,60,-,Hanlon Creek,ResidentialProperty,43.508878,-80.231376
+57 Koch Drive ,"$689,900",['Sold on Oct 04 2021'],"$739,000",3,3,2,1100-1500,31-50 years,2-Storey,Fin W/O,2021,361000,2021,4124.82,106,29.82,712230129,Hanlon Creek,ResidentialProperty,43.51471069,-80.22700358
+57 Paul Avenue ,"$780,000",['Sold on May 06 2021'],"$780,000",9,5,-,-,31-50 years,Bungalow,Finished,2021,349000,2020,3918.72,97.4,60.01,713110097,Waverley,ResidentialProperty,43.5628498,-80.2581034
+58 Bushmills Crescent ,"$699,900",['Sold on Jun 15 2021'],"$760,000",6,3,1,-,16-30 years,2-Storey,Finished,-,-,2020,4444.75,111.6,30.54,712580175,Parkwood Gardens,ResidentialProperty,43.52814843,-80.27810288
+58 Carrington Place ,"$1,099,000",['Sold on Nov 26 2021'],"$1,099,000",14,3,2,-,-,2-Storey,Apartment,-,-,2021,6512.87,145.01,31.17,714920515,Guelph South,ResidentialProperty,43.51258281,-80.20666055
+58 Munroe Crescent ,"$999,900",['Sold on Sep 04 2021'],"$1,140,000",5,4,-,2500-3000,16-30 years,2-Storey,Finished,2021,612000,2021,6992,121,39,71492066,Clairfields,ResidentialProperty,43.49937261,-80.19476481
+58 Sleeman Avenue ,"$729,900",['Sold on May 20 2021'],"$780,000",9,3,1,700-1100,-,Bungalow,Finished,-,-,2020,3379.75,100,54.99,-,Onward Willow,ResidentialProperty,43.5378571,-80.2746881
+59 Porter Drive ,"$999,900",['Sold on Oct 08 2021'],"$990,000",39,3,-,-,-,2-Storey,Finished,-,-,2021,5919,103.47,30.38,-,Pine Ridge,ResidentialProperty,43.50493732,-80.19019567
+59 Vanier Drive ,"$899,900",['Sold on May 12 2021'],"$965,000",6,4,-,1500-2000,51-99 years,2-Storey,Finished,2021,452000,2020,5075.25,100,54.99,712470111,Old University,ResidentialProperty,43.52466331,-80.24747088
+595 Eramosa Road ,"$689,900",['Sold on Aug 31 2021'],"$685,000",55,5,-,2000-2500,100+ years,2-Storey,Full,-,-,2021,4727.14,-,78.18,-,Grange Hill East,ResidentialProperty,43.568971,-80.247579
+6 Bagot Street ,"$699,900",['Sold on Oct 05 2021'],"$725,000",8,2,-,1100-1500,-,2-Storey,Full,-,-,2021,3439,80,44,-,Onward Willow,ResidentialProperty,43.5397412,-80.2647965
+6 Hamel Avenue ,"$849,900",['Sold on Jul 05 2021'],"$830,000",41,3,1,700-1100,51-99 years,Bungalow,Finished,-,-,2020,4256,105,65,712940212,Exhibition Park,ResidentialProperty,43.54473117,-80.26540125
+6 Mallard Court ,"$849,900",['Sold on Jul 29 2021'],"$905,000",6,3,1,1500-2000,16-30 years,2-Storey,Finished,2021,418000,2021,4776.1,120,34,712150038,Kortright Hills,ResidentialProperty,43.49911764,-80.24124779
+6 Princeton Place ,"$850,000",['Sold on Sep 20 2021'],"$1,138,000",7,4,-,2000-2500,31-50 years,2-Storey,Finished,2021,603000,2021,6889.93,111.55,66.44,-,Kortright Hills,ResidentialProperty,43.5206228,-80.22746289
+6 Quail Creek Drive ,"$999,900",['Sold on May 11 2021'],"$1,150,000",5,3,1,-,-,2-Storey,Fin W/O,-,-,2020,5513,123,53,-,Kortright Hills,ResidentialProperty,43.4991225,-80.2348544
+6 Watt Street ,"$659,900",['Sold on Sep 01 2021'],"$676,500",7,3,-,-,16-30 years,2-Storey,Full,2021,317000,2021,3800,114.62,38.25,713460149,Grange Hill East,ResidentialProperty,43.56817771,-80.23690111
+6 Wolfond Crescent ,"$1,299,000",['Sold on May 18 2021'],"$1,280,000",7,1,2,1500-2000,51-99 years,Sidesplit 3,Finished,2021,573000,2021,6433.88,100,70.01,712390024,Old University,ResidentialProperty,43.53458004,-80.24336473
+60 Dublin Street North ,"$599,900",['Sold on May 14 2021'],"$620,000",10,3,-,700-1100,100+ years,1 1/2 Storey,Full,2021,350000,2021,3929.95,-,38,-,Central West,ResidentialProperty,43.54312085,-80.25296135
+60 Kortright Road East ,"$1,299,900",['Sold on Jun 18 2021'],"$1,332,500",2,2,2,2000-2500,-,Bungaloft,Finished,2021,676000,2021,7724.04,125,61,-,Guelph South,ResidentialProperty,43.52636808,-80.20847903
+61 Dean Avenue ,"$1,750,000",['Sold on Oct 25 2021'],"$1,675,000",65,4,-,2500-3000,0-5 years,2-Storey,Unfinished,-,-,2021,0.01,56.5,135,-,Old University,ResidentialProperty,43.5315152,-80.2409381
+61 Downey Road ,"$1,299,900",['Sold on Jun 01 2021'],"$1,290,000",5,3,2,2000-2500,31-50 years,2-Storey,Apartment,2021,518000,2020,5918,151,58,-,Kortright Hills,ResidentialProperty,43.50310733,-80.23944389
+614 Woolwich Street ,"$699,900",['Sold on Oct 06 2021'],"$860,000",7,4,-,1100-1500,100+ years,2-Storey,Part Fin,-,-,2021,3930.57,109.2,42.09,-,Exhibition Park,ResidentialProperty,43.55757648,-80.26730944
+62 Bond Court ,"$824,900",['Sold on Jun 27 2021'],"$970,000",4,3,1,1500-2000,16-30 years,2-Storey,Apartment,-,-,2021,5495.95,165,24,-,West Willow Woods,ResidentialProperty,43.53477145,-80.29842083
+62 Cambridge Street ,"$899,900",['Sold on Sep 20 2021'],"$951,000",10,4,-,2000-2500,100+ years,2-Storey,Part Bsmt,-,-,2021,5165,106.08,50,712880028,Central West,ResidentialProperty,43.54220099,-80.2570069
+62 Galt Street ,"$649,900",['Sold on Aug 25 2021'],"$645,000",7,3,1,1100-1500,100+ years,1 1/2 Storey,Finished,2021,299000,2021,3416,-,30,-,Onward Willow,ResidentialProperty,43.5362445,-80.256526
+62 Guelph Street ,"$779,900",['Sold on Jul 28 2021'],"$780,000",20,3,-,1100-1500,51-99 years,Bungalow,Finished,2021,411000,2020,4614.88,201.98,66.01,712750118,Onward Willow,ResidentialProperty,43.5400395,-80.27004144
+62 Keating Street ,"$1,020,000",['Sold on Aug 13 2021'],"$1,000,000",9,4,-,2000-2500,New,2-Storey,Unfinished,-,-,2021,-,100,30,-,Grange Hill East,ResidentialProperty,43.5663365,-80.2182068
+62 McArthur Drive ,"$899,999",['Sold on May 15 2021'],"$1,090,000",1,4,-,-,-,2-Storey,Finished,-,-,2020,6900,109.91,39.04,711862197,Pine Ridge,ResidentialProperty,43.50848471,-80.18284059
+63 Algoma Drive ,"$649,900",['Sold on Jul 19 2021'],"$630,000",24,3,-,-,-,Bungalow,Full,-,-,2021,3782.04,122.63,49.81,-,Brant,ResidentialProperty,43.57852157,-80.25689939
+63 Chillico Drive ,"$899,900",['Sold on Nov 02 2021'],"$1,125,000",7,4,1,-,16-30 years,2-Storey,Finished,2016,423000,2021,4581.86,-,27.33,714860324,West Willow Woods,ResidentialProperty,43.52867803,-80.3059353
+63 Derry Street ,"$1,575,000",['Sold on Nov 10 2021'],"$1,525,000",7,4,-,2500-3000,100+ years,2-Storey,Full,-,-,2021,8440,112.2,55.42,-,Waverley,ResidentialProperty,43.5535056,-80.2515404
+63 Doyle Drive ,"$849,900",['Sold on Oct 30 2021'],"$865,000",1,3,-,1100-1500,16-30 years,2-Storey,Finished,2021,393000,2020,4256.01,107,30,714920688,Clairfields,ResidentialProperty,43.4980872,-80.1936214
+63 Lambert Crescent ,"$779,900",['Sold on Jul 22 2021'],"$775,000",16,4,-,1100-1500,31-50 years,2-Storey,Full,-,-,2021,4353,60,115,-,Old University,ResidentialProperty,43.514012,-80.24932
+63 Lyon Avenue ,"$849,900",['Sold on Oct 26 2021'],"$928,500",5,3,-,1500-2000,51-99 years,2 1/2 Storey,Full,2021,457000,2021,5222,114,50,712980165,Exhibition Park,ResidentialProperty,43.548453,-80.264205
+632 Woolwich Street ,"$829,900",['Sold on Nov 28 2021'],"$800,000",25,4,-,-,-,2 1/2 Storey,Full,-,-,2021,4993,105,53.34,-,Exhibition Park,ResidentialProperty,43.5658477,-80.2779014
+64 Arthur Street North ,"$999,000",['Sold on Nov 08 2021'],"$1,175,000",11,4,-,3000-3500,100+ years,2-Storey,Full,-,-,2021,8123.95,123,66,-,Central East,ResidentialProperty,43.5487989,-80.24539633
+64 Laughland Lane ,"$1,000,000",['Sold on Aug 27 2021'],"$1,025,900",6,4,1,2000-2500,6-15 years,2-Storey,Full,2020,543000,2020,6097.03,109.91,36.09,-,Pine Ridge,ResidentialProperty,43.51078798,-80.17662548
+64 Milson Crescent ,"$1,149,999",['Sold on Nov 05 2021'],"$1,140,000",30,4,-,2000-2500,16-30 years,2-Storey,Finished,-,-,2021,6135.81,114.83,39.37,-,Kortright Hills,ResidentialProperty,43.50104103,-80.22961257
+65 Beaver Meadow Drive ,"$1,199,000",['Sold on Jul 05 2021'],"$1,210,000",10,6,-,2000-2500,-,2-Storey,Fin W/O,-,-,2021,6547.15,115,36,-,Pine Ridge,ResidentialProperty,43.50822106,-80.18541193
+65 Gibbs Crescent ,"$899,900",['Sold on Jun 08 2021'],"$1,035,000",5,3,1,2000-2500,16-30 years,2-Storey,Finished,-,-,2020,5609.19,110,41,714920438,Clairfields,ResidentialProperty,43.49953205,-80.19634967
+65 Hasler Crescent ,"$1,129,000",['Sold on Dec 02 2021'],"$1,140,000",8,4,1,2000-2500,6-15 years,2-Storey,Finished,2016,516000,2021,5800.52,114.83,30.97,711862275,Pine Ridge,ResidentialProperty,43.5204141,-80.18819847
+65 Imperial Road North ,"$879,900",['Sold on May 10 2021'],"$849,000",21,3,1,2000-2500,31-50 years,Sidesplit 3,Full,2021,456000,2021,5200.78,-,56,-,West Willow Woods,ResidentialProperty,43.52980108,-80.29325908
+65 Mohawk Drive ,"$574,900",['Sold on Dec 07 2021'],"$685,000",8,3,-,700-1100,51-99 years,Bungalow,Finished,-,-,2021,3634,57,110,-,Brant,ResidentialProperty,43.5763534,-80.2533824
+65-67 Ontario Street ,"$648,000",['Sold on May 13 2021'],"$648,000",15,4,-,1100-1500,100+ years,2-Storey,Full,2021,289000,2020,3245.01,132,27.99,713400037,Two Rivers,ResidentialProperty,43.54462628,-80.2378278
+653 Grange Road ,"$1,100,000",['Sold on Jun 14 2021'],"$1,100,000",-,4,-,2000-2500,6-15 years,2-Storey,Full,2021,521000,2021,5850,111,40,713560211,Grange Hill East,ResidentialProperty,43.57541745,-80.2161629
+66 Milson Crescent ,"$999,999",['Sold on Aug 13 2021'],"$1,100,000",11,4,-,2000-2500,16-30 years,2-Storey,Full,-,-,2021,6068,114.83,39.37,-,Kortright Hills,ResidentialProperty,43.50113154,-80.22974035
+66 Revell Drive ,"$849,000",['Sold on Apr 28 2021'],"$900,000",6,4,-,1500-2000,6-15 years,2 1/2 Storey,Full,-,-,2020,5209.99,133,26.81,714921286,Guelph South,ResidentialProperty,43.50975904,-80.19745776
+66 Western Avenue ,"$799,900",['Sold on Oct 24 2021'],"$960,000",6,4,1,-,-,Backsplit 3,Finished,-,-,2021,4787.53,107,54,-,Onward Willow,ResidentialProperty,43.54036767,-80.27367825
+66 Woodland Glen Drive ,"$799,900",['Sold on Jun 29 2021'],"$902,250",6,3,-,2000-2500,31-50 years,2-Storey,Finished,-,-,2021,5621.64,127,56,-,Kortright Hills,ResidentialProperty,43.50725441,-80.24118745
+661 Woolwich Street ,"$685,000",['Sold on Nov 01 2021'],"$640,000",18,2,-,-,-,Bungalow,Part Fin,2021,267000,2021,3050.8,-,35,-,Waverley,ResidentialProperty,43.5592867,-80.2691574
+67 Hayward Crescent ,"$899,900",['Sold on May 03 2021'],"$900,000",6,5,-,2000-2500,16-30 years,2-Storey,Apartment,2021,515000,2020,5783,105,55,714920154,Clairfields,ResidentialProperty,43.4973412,-80.1991127
+67 King Street ,"$1,249,900",['Sold on May 17 2021'],"$1,350,000",6,3,-,2500-3000,16-30 years,2-Storey,Finished,2021,850000,2021,10021.33,159.39,50,-,Central East,ResidentialProperty,43.55075265,-80.24956047
+67 St. Arnaud Street ,"$879,900",['Sold on Nov 19 2021'],"$850,000",16,2,2,1500-2000,51-99 years,2-Storey,Unfinished,2021,379000,2021,4330,100,50,-,Onward Willow,ResidentialProperty,43.53425252,-80.25879926
+68 Bagot Street ,"$799,000",['Sold on Aug 09 2021'],"$800,002",81,6,-,2000-2500,100+ years,1 1/2 Storey,Crawl Space,2016,384000,2020,4311,132,88.5,712770009,Onward Willow,ResidentialProperty,43.54127812,-80.26697468
+68 Dumbarton Street ,"$599,900",['Sold on Nov 03 2021'],"$805,000",7,3,1,700-1100,51-99 years,Bungalow,Finished,2021,339000,2021,3873.44,120,60.01,713060030,Waverley,ResidentialProperty,43.57201667,-80.25800603
+68 Thornhill Drive ,"$739,900",['Sold on May 25 2021'],"$925,000",6,4,-,-,-,Bungalow-Raised,Finished,-,-,2020,3795.2,61.43,57.68,-,West Willow Woods,ResidentialProperty,43.532745,-80.3005174
+68 Upton Crescent ,"$609,900",['Sold on Sep 07 2021'],"$675,000",7,3,-,1100-1500,31-50 years,2-Storey,Finished,-,-,2021,3016.49,102,28,713450197,Grange Hill East,ResidentialProperty,43.5618818,-80.2305499
+680 Eramosa Road ,"$649,999",['Sold on Apr 29 2021'],"$700,000",7,3,2,1500-2000,-,2-Storey,Finished,-,-,2020,3552.75,-,75,713500053,Brant,ResidentialProperty,43.574001,-80.247144
+69 Cambridge Street ,"$799,900",['Sold on May 12 2021'],"$915,069",6,3,-,1100-1500,100+ years,2-Storey,Full,2021,336000,2021,3772.75,75,19.51,712880046,Exhibition Park,ResidentialProperty,43.5421439,-80.2575273
+69 Revell Drive ,"$849,900",['Sold on May 15 2021'],"$1,000,000",2,3,-,-,-,Other,Unfinished,-,-,2021,5176,105,45,-,Guelph South,ResidentialProperty,43.50946354,-80.19746572
+7 Algoma Drive ,"$729,900",['Sold on Sep 14 2021'],"$850,000",5,3,1,1100-1500,51-99 years,Bungalow-Raised,Fin W/O,2021,363000,2021,4124.8,104,79.33,713530070,Waverley,ResidentialProperty,43.57750012,-80.2548617
+7 Allison Place ,"$829,900",['Sold on Dec 02 2021'],"$800,000",15,3,-,1100-1500,31-50 years,Sidesplit 4,Part Fin,2021,347000,2021,3964.85,-,71,712560137,Parkwood Gardens,ResidentialProperty,43.51615651,-80.27571546
+7 Bagot Street ,"$699,900",['Sold on Aug 24 2021'],"$725,000",7,2,3,700-1100,31-50 years,Bungalow,Full,-,-,2021,3747.76,66,66,-,Onward Willow,ResidentialProperty,43.5398665,-80.2646274
+7 Glebeholme Crescent ,"$875,000",['Sold on Sep 18 2021'],"$867,500",2,4,-,1100-1500,51-99 years,2-Storey,Full,2021,412000,2021,4707.55,114,68.64,712940026,Exhibition Park,ResidentialProperty,43.55191857,-80.2749852
+7 Harts Lane East ,"$999,900",['Sold on May 05 2021'],"$1,025,000",9,4,-,1500-2000,16-30 years,2-Storey,Finished,2021,573000,2021,7005,170,59,715050334,Guelph South,ResidentialProperty,43.5197953,-80.20638793
+7 Hollyberry Place ,"$899,900",['Sold on Jun 19 2021'],"$1,075,000",2,3,1,1500-2000,31-50 years,Sidesplit 3,Finished,2021,468000,2020,5254.9,133,71.36,712540611,Onward Willow,ResidentialProperty,43.52203077,-80.28157624
+7 Peartree Crescent ,"$880,000",['Sold on Nov 05 2021'],"$875,000",16,3,1,-,-,Bungalow,Finished,-,-,2021,3717.02,114.83,49.21,-,West Willow Woods,ResidentialProperty,43.53034731,-80.30010143
+7 Shirley Avenue ,"$799,900",['Sold on Jun 28 2021'],"$785,000",17,2,1,1100-1500,51-99 years,Bungalow,Finished,2021,348000,2020,3907.49,90,54.99,713250052,Central East,ResidentialProperty,43.55791377,-80.24561573
+7 Southcreek Trail ,"$749,900",['Sold on Oct 04 2021'],"$785,000",5,3,-,700-1100,31-50 years,2-Storey,Finished,2021,322000,2021,3679.2,132,41,714900422,Kortright Hills,ResidentialProperty,43.51113725,-80.2164922
+7 Stanley Street ,"$1,199,900",['Sold on Nov 27 2021'],"$1,200,000",2,3,1,2000-2500,0-5 years,2-Storey,Finished,2021,448000,2021,5118.89,91,32.5,712970413,Exhibition Park,ResidentialProperty,43.5555819,-80.26986504
+7 Zecca Drive ,"$1,125,000",['Sold on Aug 19 2021'],"$1,210,000",8,4,-,2000-2500,-,2-Storey,Finished,2021,523000,2021,6166,101,40,71186202,Guelph South,ResidentialProperty,43.5191009,-80.18941797
+70 Cole Road ,"$699,900",['Sold on Sep 13 2021'],"$750,000",6,3,1,1100-1500,31-50 years,2-Storey,Apartment,-,-,2021,4284.78,137.57,24.38,-,Hanlon Creek,ResidentialProperty,43.51530781,-80.23375567
+70 Kensington Street ,"$774,900",['Sold on Dec 01 2021'],"$1,000,000",7,3,1,1100-1500,51-99 years,Bungalow,Full,-,-,2021,4147.67,110,70,713070018,Waverley,ResidentialProperty,43.56904313,-80.26276613
+70 Victoria Road North ,"$599,900",['Sold on Oct 27 2021'],"$800,000",5,3,-,1100-1500,51-99 years,Bungalow,Full,2021,322000,2021,3679,103,50,713310203,Central East,ResidentialProperty,43.55988748,-80.2352443
+70 Wilkie Crescent ,"$849,000",['Sold on Jul 16 2021'],"$920,500",6,3,1,2500-3000,6-15 years,2-Storey,Finished,2021,452000,2021,5164.59,110,30,711862679,Pine Ridge,ResidentialProperty,43.50906461,-80.17931118
+70 York Road ,"$699,900",['Sold on Apr 23 2021'],"$685,000",30,3,1,1500-2000,51-99 years,1 1/2 Storey,Part Bsmt,-,-,2020,4370,110,49,-,Two Rivers,ResidentialProperty,43.54151426,-80.24022592
+72 Balmoral Drive ,"$799,900",['Sold on May 04 2021'],"$972,000",6,3,-,1100-1500,51-99 years,Sidesplit 4,Finished,2021,399000,2020,4480.14,113.33,55,713040052,Waverley,ResidentialProperty,43.57483027,-80.25998121
+73 Porter Court ,"$999,500",['Sold on May 25 2021'],"$1,090,000",6,5,-,3000-3500,16-30 years,Bungalow,Finished,-,-,2020,5299.81,108,55,-,Clairfields,ResidentialProperty,43.507398,-80.190427
+73 Southcreek Trail ,"$879,900",['Sold on Sep 09 2021'],"$845,000",64,1,2,-,-,Bungalow,Fin W/O,-,-,2020,4322.58,144.36,32.81,714900768,Kortright Hills,ResidentialProperty,43.50985033,-80.21624487
+731 Scottsdale Drive ,"$684,900",['Sold on May 26 2021'],"$785,000",9,3,3,-,-,2-Storey,Fin W/O,-,-,2020,4135.88,105,51.98,-,Hanlon Creek,ResidentialProperty,43.512785,-80.234311
+74 Marsh Crescent ,"$1,050,000",['Sold on Aug 09 2021'],"$1,150,000",5,3,1,1500-2000,16-30 years,2-Storey,Fin W/O,-,-,2021,5644,103,33,-,Pine Ridge,ResidentialProperty,43.5189629,-80.18294544
+74 Marshall Drive ,"$1,200,000",['Sold on May 07 2021'],"$1,125,000",11,4,-,2000-2500,6-15 years,2-Storey,Full,-,-,2020,5625.44,115.28,41.54,-,Grange Hill East,ResidentialProperty,43.57254392,-80.20979592
+74 Raglan Street ,"$745,000",['Sold on Nov 22 2021'],"$730,000",4,3,-,1100-1500,100+ years,1 1/2 Storey,Full,2021,333000,2021,3804.89,100,35,712790032,Onward Willow,ResidentialProperty,43.5385867,-80.26448896
+747 Scottsdale Drive ,"$747,500",['Sold on Jul 25 2021'],"$716,000",12,3,3,-,-,Bungalow,Finished,-,-,2021,3964.85,105,50.98,-,Kortright Hills,ResidentialProperty,43.5123272,-80.23256647
+75 Alma Street South ,"$599,000",['Sold on Jun 15 2021'],"$600,000",7,2,-,700-1100,51-99 years,Bungalow,Part Fin,2021,303000,2020,3402,100,50,71280005,Onward Willow,ResidentialProperty,43.53417405,-80.26013808
+75 Cedar Street ,"$799,900",['Sold on Jun 24 2021'],"$880,000",6,3,3,700-1100,51-99 years,Bungalow,Finished,2021,333000,2021,3739.06,91,52.07,712470174,Old University,ResidentialProperty,43.53035564,-80.25184479
+75 Johnston Street ,"$575,000",['Sold on Jun 22 2021'],"$575,000",13,2,-,700-1100,51-99 years,1 1/2 Storey,Part Fin,2021,291000,2020,3267,110,37.5,713410107,Two Rivers,ResidentialProperty,43.5490567,-80.2309044
+75 Revell Drive ,"$849,900",['Sold on Jun 01 2021'],"$849,900",15,3,-,1100-1500,6-15 years,2-Storey,Full,-,-,2020,4513.31,106,40.03,230806000,Clairfields,ResidentialProperty,43.50904887,-80.19753186
+76 Cassino Avenue ,"$725,000",['Sold on Jun 16 2021'],"$725,000",1,2,1,700-1100,31-50 years,Bungalow,Finished,2021,303000,2021,3402.21,135,50,230802001,Grange Hill East,ResidentialProperty,43.56036591,-80.23766167
+77 Imperial Road North ,"$789,000",['Sold on Oct 11 2021'],"$750,000",13,3,1,1500-2000,31-50 years,2-Storey,Finished,-,-,2021,4021,109.86,58.57,-,West Willow Woods,ResidentialProperty,43.5317425,-80.2940418
+77 McElderry Road ,"$850,000",['Sold on Jul 13 2021'],"$955,000",6,3,-,1500-2000,31-50 years,Sidesplit 3,Full,-,-,2020,5500,114.83,54.95,-,Hanlon Creek,ResidentialProperty,43.515554,-80.22139
+77 Norma Crescent ,"$1,549,000",['Sold on Oct 06 2021'],"$1,700,000",7,4,2,-,-,2-Storey,Apartment,-,-,2021,6761.47,166.79,41.99,-,Brant,ResidentialProperty,43.58346759,-80.2588316
+77 Thornhill Drive ,"$899,900",['Sold on Jun 06 2021'],"$1,077,000",4,3,1,1500-2000,31-50 years,2-Storey,Finished,2021,461000,2020,5176.3,155,47.83,712670042,West Willow Woods,ResidentialProperty,43.5327504,-80.3008789
+78 Amsterdam Crescent ,"$1,274,900",['Sold on Dec 06 2021'],"$1,550,000",7,4,-,3500-5000,6-15 years,2-Storey,Apartment,-,-,2021,8204,105,37,711863036,Two Rivers,ResidentialProperty,43.51794242,-80.19149986
+78 Devere Drive ,"$769,000",['Sold on May 02 2021'],"$707,500",224,3,-,1100-1500,-,Backsplit 4,Finished,-,-,2020,4031,60,110,-,College,ResidentialProperty,43.512949,-80.247933
+79 Duke Street ,"$629,900",['Sold on Jul 22 2021'],"$620,000",47,3,-,1100-1500,-,2-Storey,Unfinished,-,-,2021,3154.96,132.58,31.04,-,Two Rivers,ResidentialProperty,43.54605169,-80.23935957
+79 Kortright Road ,"$729,900",['Sold on Oct 13 2021'],"$833,000",7,3,-,-,-,2-Storey,Full,2021,422000,2021,4821.81,-,54.63,712300007,Kortright Hills,ResidentialProperty,43.522031,-80.2126236
+79 Porter Court ,"$991,889",['Sold on Jun 29 2021'],"$1,080,000",5,3,-,-,-,2-Storey,Finished,-,-,2021,5919,108.27,36.09,-,Pine Ridge,ResidentialProperty,43.50717713,-80.19012925
+8 Blackbird Crescent ,"$675,000",['Sold on Jun 17 2021'],"$728,000",10,3,1,-,-,Bungalow,Apartment,-,-,2021,4159.1,102,45.01,-,Brant,ResidentialProperty,43.58034483,-80.25850293
+8 Fergus Street ,"$699,900",['Sold on Aug 10 2021'],"$700,000",6,2,-,1100-1500,-,Bungalow,Crawl Space,-,-,2021,3142,66,65,-,Exhibition Park,ResidentialProperty,43.5379028,-80.2562801
+8 Marlborough Road ,"$575,000",['Sold on Oct 06 2021'],"$685,000",-,3,1,700-1100,51-99 years,Bungalow,Finished,-,-,2021,3930.57,104,66.01,-,Exhibition Park,ResidentialProperty,43.559033,-80.26165438
+8 Shelby Place ,"$999,900",['Sold on Jun 03 2021'],"$1,230,000",2,4,-,2000-2500,16-30 years,2-Storey,Finished,-,-,2020,6009.75,-,37.76,712580316,West Willow Woods,ResidentialProperty,43.5252222,-80.2705653
+8 Southampton Street ,"$749,900",['Sold on Oct 13 2021'],"$832,000",6,3,-,1100-1500,-,1 1/2 Storey,Full,-,-,2021,4330,74,35.24,-,Central West,ResidentialProperty,43.54000746,-80.26054605
+80 Liverpool Street ,"$1,199,900",['Sold on May 18 2021'],"$1,325,000",8,5,-,3500-5000,100+ years,2 1/2 Storey,Full,2021,583000,2020,6344,106,33,712910085,Exhibition Park,ResidentialProperty,43.54533189,-80.25677725
+80 Lynch Circle ,"$749,000",['Sold on May 23 2021'],"$815,000",6,3,-,1100-1500,16-30 years,2-Storey,Finished,-,-,2020,4646,108.27,30.18,-,Pine Ridge,ResidentialProperty,43.50664871,-80.1845926
+80 Marlborough Road ,"$799,900",['Sold on Jun 15 2021'],"$950,275",5,2,-,700-1100,-,Bungalow,Finished,2021,-,2021,4200,-,75,-,Two Rivers,ResidentialProperty,43.56283325,-80.26628153
+81 Marshall Drive ,"$1,149,000",['Sold on Jul 01 2021'],"$1,115,000",22,4,-,2000-2500,6-15 years,2-Storey,Finished,-,-,2021,5713.05,117.7,49.43,-,Grange Hill East,ResidentialProperty,43.5720108,-80.20940855
+82 Alma Street South ,"$549,900",['Sold on Jul 20 2021'],"$580,000",6,2,-,700-1100,51-99 years,Bungalow,Full,2021,283000,2021,3233.58,100,45,712800088,Onward Willow,ResidentialProperty,43.5342884,-80.2599531
+82 Mcarthur Drive ,"$899,000",['Sold on Apr 23 2021'],"$970,000",11,3,1,1500-2000,-,2-Storey,Finished,-,-,2020,5277.36,109.84,36,-,Pine Ridge,ResidentialProperty,43.50768754,-80.1817535
+82 Rhonda Road ,"$749,900",['Sold on Jul 21 2021'],"$745,000",-,3,1,1100-1500,31-50 years,Bungalow-Raised,Finished,2021,342000,2021,3806.16,126.3,64.01,712610021,West Willow Woods,ResidentialProperty,43.5344592,-80.2828506
+83 Cedar Street ,"$699,900",['Sold on Jul 19 2021'],"$700,000",12,3,-,700-1100,51-99 years,Sidesplit 3,Finished,-,-,2021,3919.14,64.62,71,712470171,Old University,ResidentialProperty,43.52993905,-80.25249514
+83 Winston Crescent ,"$540,000",['Sold on Aug 17 2021'],"$620,000",4,2,-,700-1100,51-99 years,1 1/2 Storey,Full,-,-,2020,2919,111,50,713240051,Grange Hill East,ResidentialProperty,43.55591497,-80.24429742
+85 Essex Street ,"$599,000",['Sold on Oct 12 2021'],"$778,000",6,3,-,-,-,1 1/2 Storey,Full,-,-,2021,3942,135,31,-,Central West,ResidentialProperty,43.53960281,-80.25021311
+86 Marshall Drive ,"$1,250,000",['Sold on Jun 13 2021'],"$1,235,000",18,4,2,2000-2500,6-15 years,2-Storey,Finished,-,-,2021,5737.72,113,42,-,Grange Hill East,ResidentialProperty,43.57203465,-80.20904605
+86 Mountford Drive ,"$699,900",['Sold on Oct 21 2021'],"$800,000",8,3,1,-,31-50 years,Bungalow,Finished,2021,326000,2021,3800,-,54,713470029,Grange Hill East,ResidentialProperty,43.566526,-80.237663
+86 Upton Crescent ,"$549,900",['Sold on Jun 21 2021'],"$650,860",6,3,-,700-1100,31-50 years,2-Storey,Finished,-,-,2021,3210.73,100,35,-,Grange Hill East,ResidentialProperty,43.5618818,-80.2305499
+87 Alma Street South ,"$689,900",['Sold on Sep 20 2021'],"$852,700",7,3,1,700-1100,51-99 years,Bungalow,Finished,2021,329000,2021,3759,100,40,712800049,Onward Willow,ResidentialProperty,43.5338537,-80.2596799
+87 Fleming Road ,"$749,999",['Sold on May 06 2021'],"$725,000",10,3,-,-,-,2-Storey,Finished,-,-,2020,3840,121,30,-,Grange Hill East,ResidentialProperty,43.56913257,-80.21529955
+87 Memorial Crescent ,"$584,900",['Sold on Aug 21 2021'],"$590,000",5,2,-,-,-,Bungalow,Crawl Space,-,-,2021,2324.28,105.66,50,712780060,Central West,ResidentialProperty,43.53489946,-80.26765391
+87 Pheasant Run Drive ,"$799,900",['Sold on May 18 2021'],"$990,000",5,3,1,1500-2000,16-30 years,2-Storey,Finished,-,-,2020,4581.19,-,79.73,712150095,Kortright Hills,ResidentialProperty,43.49549968,-80.24146344
+882 Paisley Road ,"$895,000",['Sold on May 20 2021'],"$947,500",5,4,2,1500-2000,16-30 years,Backsplit 3,Finished,-,-,2020,3550.32,110,40,712590260,West Willow Woods,ResidentialProperty,43.52692895,-80.28409145
+884 Paisley Road ,"$899,000",['Sold on Aug 15 2021'],"$1,001,000",-,4,2,-,-,2-Storey,Apartment,-,-,2021,4799,109.91,39.7,-,West Willow Woods,ResidentialProperty,43.52687815,-80.28421666
+9 Carolyn Court ,"$987,500",['Sold on Aug 23 2021'],"$987,000",6,3,2,1500-2000,31-50 years,Bungalow-Raised,Part Fin,2021,477000,2021,5450.25,-,54,712650180,West Willow Woods,ResidentialProperty,43.53918884,-80.28886594
+9 Darling Crescent ,"$879,000",['Sold on Jun 06 2021'],"$878,000",11,3,-,1500-2000,-,2-Storey,Part Fin,-,-,2021,4900,108.27,30.18,-,Pine Ridge,ResidentialProperty,43.50420699,-80.1873959
+9 Duck Lane ,"$1,200,000",['Sold on Sep 18 2021'],"$1,240,000",2,3,2,2000-2500,6-15 years,2-Storey,Apartment,-,-,2021,6193,109,36,-,Guelph South,ResidentialProperty,43.51106122,-80.17928438
+9 Forster Drive ,"$1,224,900",['Sold on Sep 28 2021'],"$1,342,000",8,4,-,2500-3000,31-50 years,2-Storey,Full,2021,642000,2021,7335.55,131,59,-,Village,ResidentialProperty,43.52558833,-80.21036333
+9 Hales Crescent ,"$1,050,000",['Sold on Jul 23 2021'],"$1,060,000",22,3,3,1500-2000,-,Bungalow,Finished,-,-,2021,6204.37,-,57.72,712410110,Old University,ResidentialProperty,43.53210697,-80.2345863
+9 Hollyberry Place ,"$750,000",['Sold on Aug 08 2021'],"$750,000",5,3,-,1500-2000,31-50 years,Sidesplit 3,Full,2021,401000,2020,4502.6,133,40.81,712540610,West Willow Woods,ResidentialProperty,43.52196823,-80.28160786
+9 Jodi Place ,"$859,900",['Sold on Oct 13 2021'],"$983,000",7,3,-,1500-2000,31-50 years,Bungalow,Finished,2021,451000,2021,6337.59,-,38,712620134,West Willow Woods,ResidentialProperty,43.5299249,-80.28698399
+9 Lonsdale Drive ,"$749,900",['Sold on Sep 16 2021'],"$810,000",7,3,-,-,51-99 years,Sidesplit 3,Finished,2021,322000,2021,3615.5,100,56,712950146,June Avenue,ResidentialProperty,43.55316271,-80.2782292
+9 Newstead Street ,"$749,000",['Sold on Oct 19 2021'],"$851,000",6,3,-,1100-1500,51-99 years,Bungalow-Raised,Full,2021,391000,2021,4476.6,89.5,94.75,713500064,Brant,ResidentialProperty,43.57129874,-80.24808717
+9 O'connor Lane ,"$750,000",['Sold on Aug 23 2021'],"$827,000",6,3,-,1100-1500,16-30 years,2-Storey,Finished,2021,380000,2021,4341.91,116,32.82,714930864,Grange Hill East,ResidentialProperty,43.56799278,-80.21815438
+9 Pinetree Drive ,"$824,900",['Sold on Jun 23 2021'],"$820,000",19,3,2,-,-,Bungalow-Raised,Apartment,2021,365000,2020,4098,-,101,712540633,West Willow Woods,ResidentialProperty,43.52474855,-80.283433
+9 Silversmith Court ,"$850,000",['Sold on May 21 2021'],"$850,000",8,3,1,-,-,2-Storey,Finished,-,-,2021,4200,-,34.06,-,Hanlon Creek,ResidentialProperty,43.5109528,-80.2085202
+9 Uplands Place ,"$639,900",['Sold on Jul 22 2021'],"$700,500",6,3,1,1100-1500,31-50 years,Bungalow-Raised,Finished,2021,335000,2021,3828,110,49,713520072,Waverley,ResidentialProperty,43.57657075,-80.2482715
+90 Kortright Road ,"$1,065,000",['Sold on Oct 26 2021'],"$1,185,000",7,2,3,-,-,Bungalow,Apartment,-,-,2021,6204.37,130,58,715050502,Kortright Hills,ResidentialProperty,43.522031,-80.2126236
+90 Vancouver Drive ,"$695,000",['Sold on Aug 23 2021'],"$777,778",5,4,-,1100-1500,51-99 years,Bungalow,Finished,2021,330000,2021,3770.61,60,119,713290031,Two Rivers,ResidentialProperty,43.563709,-80.242377
+91 Starview Crescent ,"$749,000",['Sold on Jul 22 2021'],"$825,000",7,3,1,-,-,2-Storey,Finished,-,-,2021,4239.08,126,31,714930408,Grange Hill East,ResidentialProperty,43.5667951,-80.22712952
+92 Downey Road ,"$1,199,999",['Sold on Aug 21 2021'],"$1,225,000",5,3,1,2000-2500,-,2-Storey,Finished,2021,582000,2021,6649,-,65,712180060,Kortright Hills,ResidentialProperty,43.5009871,-80.23827432
+93 Steffler Drive ,"$549,900",['Sold on Aug 20 2021'],"$630,000",4,3,-,1100-1500,31-50 years,2-Storey,Finished,-,-,2021,4319,108,49.8,-,Hanlon Creek,ResidentialProperty,43.51024992,-80.23649551
+93 Teal Drive ,"$898,000",['Sold on Aug 19 2021'],"$898,000",14,3,-,1500-2000,16-30 years,Backsplit 5,Finished,2016,430000,2021,4913.22,131.46,32.81,712190276,Kortright Hills,ResidentialProperty,43.49764541,-80.22726588
+94 Thornhill Drive ,"$1,149,900",['Sold on Aug 11 2021'],"$1,060,000",34,3,-,1500-2000,-,Bungalow,Finished,-,-,2021,5655.91,114.79,73.66,-,West Willow Woods,ResidentialProperty,43.5311344,-80.3013826
+96 Cedarvale Avenue ,"$739,000",['Sold on Jul 11 2021'],"$800,000",11,3,-,-,-,2-Storey,Finished,-,-,2021,4000,102.69,30.63,-,Grange Hill East,ResidentialProperty,43.56016906,-80.2223937
+96 Grove Street ,"$1,149,900",['Sold on May 28 2021'],"$1,150,000",7,4,-,1500-2000,-,2-Storey,Unfinished,-,-,2021,4787.53,127,67,-,Two Rivers,ResidentialProperty,43.5505445,-80.2406319
+96 Harris Street ,"$899,900",['Sold on Nov 17 2021'],"$885,000",61,3,1,1100-1500,100+ years,2-Storey,Half,2020,341000,2020,3829,110,50,713410099,Two Rivers,ResidentialProperty,43.54825375,-80.23094528
+97 College Avenue West ,"$899,900",['Sold on May 05 2021'],"$900,000",7,4,2,1500-2000,-,Bungalow,Finished,2021,534000,2021,5995.97,106,90,712430067,Old University,ResidentialProperty,43.526971,-80.239868
+97 Grange Street ,"$879,900",['Sold on Jul 14 2021'],"$830,000",21,3,-,2000-2500,100+ years,2 1/2 Storey,Full,-,-,2021,4433,152.71,48.33,-,Two Rivers,ResidentialProperty,43.55290463,-80.24015933
+98 Southcreek Trail ,"$824,000",['Sold on May 26 2021'],"$834,000",6,3,1,-,16-30 years,2-Storey,Finished,-,-,2020,4469,-,38.99,714900750,Kortright Hills,ResidentialProperty,43.51101454,-80.21534303
+99 Kortright Road West ,"$699,000",['Sold on Jul 20 2021'],"$803,600",8,3,2,-,-,Bungalow,Apartment,-,-,2021,3999.13,120,50,-,Kortright Hills,ResidentialProperty,43.51752928,-80.21619633
+99 Maple Street ,"$1,089,900",['Sold on Nov 05 2021'],"$1,060,000",11,3,1,-,51-99 years,1 1/2 Storey,Finished,2021,530000,2021,6055.83,150,60,-,Old University,ResidentialProperty,43.5324836,-80.2444449
